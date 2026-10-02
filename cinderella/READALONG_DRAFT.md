@@ -61,4 +61,3 @@ The slipper fitted Cinderella perfectly. But the prince was happiest to hear her
 Page 12 · 10.700s–32.725s (estimated)
 
 In time, they made a home filled with laughter, music, and kindness. Every evening, they left crumbs for the garden birds. And beneath the peaceful moon, Cinderella knew that her gentle heart had always been her greatest treasure. The end.
-

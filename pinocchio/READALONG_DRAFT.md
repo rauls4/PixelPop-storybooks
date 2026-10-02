@@ -61,4 +61,3 @@ Back in the workshop, Pinocchio cared for Geppetto and kept his promises, one sm
 Page 12 · 19.425s–32.725s (estimated)
 
 Geppetto laughed with happiness. As the lamplight softened, they tucked the schoolbook beside the bed and rested, grateful to be home together. The end.
-

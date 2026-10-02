@@ -61,4 +61,3 @@ Snow White chose a life among people who treated one another kindly. She and her
 Page 12 · 14.950s–33.725s (estimated)
 
 The prince often came to visit, and friendship filled the little cottage. When the moon rose, every window shone softly. Snow White rested safely, surrounded by the people who cared for her. The end.
-

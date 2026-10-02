@@ -61,4 +61,3 @@ Thumbelina gently touched the swallow's wing to thank him. You will always have 
 Page 12 · 9.825s–33.475s (estimated)
 
 He promised to visit whenever the spring winds brought him back. That evening, she nestled inside a pink blossom beneath the moon. The garden grew quiet, and Thumbelina fell asleep knowing that kindness could carry a small heart a very long way. The end.
-
