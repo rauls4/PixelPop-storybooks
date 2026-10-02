@@ -132,12 +132,12 @@
       "sha256": "f8d762ab6917d4998c943f1be4f65121de594a578490243a8288272e671050e0"
     },
     {
-      "path": "cinderella/pixelpop/06.jpg",
+      "path": "cinderella/pixelpop/revised/06.jpg",
       "size": [
         128,
         64
       ],
-      "sha256": "195b0139ff89f54c2e3c3117d64ca6aa3bc08e50177413d22e1e5acb7f82ab0d"
+      "sha256": "1545db997bfffe3c67ce25aa3f6c7a6395ddb52ebbb604009d19149f134727db"
     },
     {
       "path": "cinderella/normal/06.jpg",
@@ -156,12 +156,12 @@
       "sha256": "ea701c76fcbc804bf251b402c180072d0546859ff4e242947540301ad2def924"
     },
     {
-      "path": "cinderella/normal/07.jpg",
+      "path": "cinderella/normal/07-v2.jpg",
       "size": [
         1774,
         887
       ],
-      "sha256": "930527b3389120d32bd7ddbe85e1552806e66acebe9b56e499978a890007b116"
+      "sha256": "24605d9b52e9ef247f58e5758942651da8e8b4693660e87e098686b03a29d21c"
     },
     {
       "path": "cinderella/pixelpop/08.jpg",
@@ -196,12 +196,12 @@
       "sha256": "b8d01b8f9d6bfe70e01cdb9ee9f3e5f45c3990c24627ee7d43924d6ddbe4eb91"
     },
     {
-      "path": "cinderella/pixelpop/10.jpg",
+      "path": "cinderella/pixelpop/revised/10.jpg",
       "size": [
         128,
         64
       ],
-      "sha256": "db9d36af784766dd6982ca9a3f8967207bf524d9851ad71d93a286773ff290d8"
+      "sha256": "340bce30433c4090071cdb0675720a38cbf68d24e48ab722f6667eec6a321a8b"
     },
     {
       "path": "cinderella/normal/10.jpg",
@@ -212,12 +212,12 @@
       "sha256": "c0c055340e4b547cc22a20f928738eb64bb9a60f28e8fd352625b0d9507d4ee6"
     },
     {
-      "path": "cinderella/pixelpop/11.jpg",
+      "path": "cinderella/pixelpop/revised/11.jpg",
       "size": [
         128,
         64
       ],
-      "sha256": "40b588d23f8b134f7325b5365910d8368212a0d1c9dba090d24db745a42441f0"
+      "sha256": "a5335e3da77a9a5aefbf53f77875754591e7fe84fd6c4404a2d70a5f50667abf"
     },
     {
       "path": "cinderella/normal/11.jpg",
@@ -228,12 +228,12 @@
       "sha256": "643518e84327f9b20fc59436580f222b7f01025e84abe5e9233cecc2b3e9526b"
     },
     {
-      "path": "cinderella/pixelpop/12.jpg",
+      "path": "cinderella/pixelpop/revised/12.jpg",
       "size": [
         128,
         64
       ],
-      "sha256": "3b004e1d09285f487372345f53ef2481c323f7ab129bd583507e3a93428bffe1"
+      "sha256": "f54269b3476be27e92f6ca32adfb41c3b3541d209c01aec997c7286a50b07045"
     },
     {
       "path": "cinderella/normal/12.jpg",

@@ -159,7 +159,7 @@
       "segment": 3,
       "beat": "dance",
       "narration": "A young prince welcomed her, and together they danced beneath the golden lights. They talked about gardens, books, and all the small things that made them happy. For a little while, Cinderella felt as light as a song.",
-      "pixelpop_image": "pixelpop/06.jpg",
+      "pixelpop_image": "pixelpop/revised/06.jpg",
       "normal_image": "normal/06.jpg",
       "audio_clip": "narration/pages/06.wav",
       "cue": {
@@ -173,7 +173,7 @@
       "beat": "midnight-clock",
       "narration": "Then the clock began to chime. Midnight!",
       "pixelpop_image": "pixelpop/07.jpg",
-      "normal_image": "normal/07.jpg",
+      "normal_image": "normal/07-v2.jpg",
       "audio_clip": "narration/pages/07.wav",
       "cue": {
         "kind": "segment_start",
@@ -211,7 +211,7 @@
       "segment": 5,
       "beat": "prince-searching",
       "narration": "So he carried it through the village, asking after the guest who had hurried away. At last he reached Cinderella's house. From the kitchen doorway, she recognized him and stepped forward with a shy smile.",
-      "pixelpop_image": "pixelpop/10.jpg",
+      "pixelpop_image": "pixelpop/revised/10.jpg",
       "normal_image": "normal/10.jpg",
       "audio_clip": "narration/pages/10.wav",
       "cue": {
@@ -224,7 +224,7 @@
       "segment": 6,
       "beat": "slipper-fits",
       "narration": "The slipper fitted Cinderella perfectly. But the prince was happiest to hear her voice and see her friendly smile again.",
-      "pixelpop_image": "pixelpop/11.jpg",
+      "pixelpop_image": "pixelpop/revised/11.jpg",
       "normal_image": "normal/11.jpg",
       "audio_clip": "narration/pages/11.wav",
       "cue": {
@@ -237,7 +237,7 @@
       "segment": 6,
       "beat": "moonlit-garden",
       "narration": "In time, they made a home filled with laughter, music, and kindness. Every evening, they left crumbs for the garden birds. And beneath the peaceful moon, Cinderella knew that her gentle heart had always been her greatest treasure. The end.",
-      "pixelpop_image": "pixelpop/12.jpg",
+      "pixelpop_image": "pixelpop/revised/12.jpg",
       "normal_image": "normal/12.jpg",
       "audio_clip": "narration/pages/12.wav",
       "cue": {

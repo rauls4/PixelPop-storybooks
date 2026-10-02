@@ -6,7 +6,8 @@
       "normal_artwork": "12 individual normal pages prepared, 1774x887",
       "audio": "pending_api_key",
       "timings": "pending_audio",
-      "github": "published draft at https://github.com/rauls4/PixelPop-storybooks/tree/main/cinderella"
+      "github": "published draft at https://github.com/rauls4/PixelPop-storybooks/tree/main/cinderella",
+      "editorial_review": "Costume continuity corrected: prince jacket, everyday hem for fitting, ball gown at midnight."
     },
     "thumbelina": {
       "script": "complete",
@@ -66,5 +67,18 @@
       "error": "prompt rejected as not permitted"
     }
   ],
-  "session_state": "resumed; three illustrated drafts prepared; narration and Pinocchio art blocked"
+  "session_state": "drafts published; remaining work requires narration credentials and Pinocchio artwork",
+  "publication": {
+    "repository": "https://github.com/rauls4/PixelPop-storybooks",
+    "commit": "fe68e7c",
+    "verified_downloads": [
+      "CURSOR_HANDOFF.md",
+      "ASSET_VALIDATION.json",
+      "cinderella/story.json",
+      "cinderella/pixelpop/01.jpg",
+      "thumbelina/pixelpop/12.jpg",
+      "snow-white/pixelpop/01.jpg",
+      "pinocchio/SYNC_SCRIPT.md"
+    ]
+  }
 }

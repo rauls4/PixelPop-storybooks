@@ -8,6 +8,6 @@ Pinocchio artwork remains blocked by image-generation rejections. No new narrati
 
 Read CURSOR_HANDOFF.md for playback rules, including the 260 ms reveal and measured PCM frame cues. Use assemble_narration.py after producing final mono 16-bit 16 kHz page WAVs; it combines six pairs and records exact page boundaries. ASSET_VALIDATION.json records dimensions and hashes for the 72 prepared JPEGs. IMAGE_PROMPTS.json, ADDITIONAL_IMAGE_PROMPTS.json and CINDERELLA_RESUME_PROMPTS.json retain generation prompts.
 
-Thumbelina normal/source-sheet.png is reference-only; the matching edition comes from normal/matched-sheet.png. Cinderella close-ups keep the narrative subjects readable at 64×32; prince outfit color and page 11 gown differ from the normal edition, so editorial consistency review remains pending. No board playback has been tested.
+Thumbelina normal/source-sheet.png is reference-only; the matching edition comes from normal/matched-sheet.png. Cinderella costume continuity corrected in versioned assets; story.json selects the revisions. Earlier artwork is preserved. review.html pairs every page with its exact narration and a true 64×32 panel preview. No board playback has been tested.
 
 Existing Little Red Riding Hood content remains unchanged in the repository. Firmware implementation and installation stay with Cursor.
