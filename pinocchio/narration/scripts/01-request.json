@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "Once upon a time, a woodcarver named Geppetto made a little wooden puppet in his cozy workshop. He carved a cheerful face, fitted tiny shoes, and named him Pinocchio.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

@@ -1,0 +1,70 @@
+{
+  "stories": {
+    "cinderella": {
+      "script": "complete",
+      "pixelpop_artwork": "12 prepared close-up JPEGs",
+      "normal_artwork": "12 individual normal pages prepared, 1774x887",
+      "audio": "pending_api_key",
+      "timings": "pending_audio",
+      "github": "published draft at https://github.com/rauls4/PixelPop-storybooks/tree/main/cinderella"
+    },
+    "thumbelina": {
+      "script": "complete",
+      "pixelpop_artwork": "prepared",
+      "normal_artwork": "12 matching normal pages prepared",
+      "audio": "pending_api_key",
+      "timings": "pending_audio",
+      "github": "published draft at https://github.com/rauls4/PixelPop-storybooks/tree/main/thumbelina"
+    },
+    "pinocchio": {
+      "script": "complete",
+      "pixelpop_artwork": "pending",
+      "normal_artwork": "blocked by image generation rejection; page 01 request 2227bd46-0d18-42ad-8ec1-aadede3b639b",
+      "audio": "pending_api_key",
+      "timings": "pending_audio",
+      "github": "published draft at https://github.com/rauls4/PixelPop-storybooks/tree/main/pinocchio"
+    },
+    "snow-white": {
+      "script": "complete",
+      "pixelpop_artwork": "12 prepared close-up JPEGs",
+      "normal_artwork": "12 pages prepared from generated sheet; native approximately 440x220, larger individual renders optional for iPad",
+      "audio": "pending_api_key",
+      "timings": "pending_audio",
+      "github": "published draft at https://github.com/rauls4/PixelPop-storybooks/tree/main/snow-white"
+    }
+  },
+  "image_tool_failures": [
+    {
+      "story": "cinderella",
+      "request_id": "c66fdba3-6c7f-4dd2-9e1d-a8e1993e86e6",
+      "reason": "moderation_blocked at output"
+    },
+    {
+      "story": "pinocchio",
+      "request_id": "4906ae5e-8649-4e18-8edc-146cd410401b",
+      "reason": "moderation_blocked at output"
+    }
+  ],
+  "firefly_access": {
+    "authentication": "successful",
+    "generation": "blocked",
+    "http_status": 403,
+    "error_code": "403003",
+    "message": "Api Key is invalid",
+    "next_step": "Request Firefly Services API licensing from Adobe; do not retry generation with Brand Intelligence credentials.",
+    "console_verified": "Firefly API - Firefly Services disabled: License required. Organization does not have a license to access this API."
+  },
+  "adobe_connector_generation_failures": [
+    {
+      "story": "cinderella",
+      "request_id": "0e7285e0-bf85-47e7-8553-c4f6a313118a",
+      "error": "prompt rejected as not permitted"
+    },
+    {
+      "story": "pinocchio",
+      "request_id": "80cd7fa2-a7ca-4f4f-8108-50a1d5403c34",
+      "error": "prompt rejected as not permitted"
+    }
+  ],
+  "session_state": "resumed; three illustrated drafts prepared; narration and Pinocchio art blocked"
+}

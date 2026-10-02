@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "The slipper fitted Cinderella perfectly. But the prince was happiest to hear her voice and see her friendly smile again.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

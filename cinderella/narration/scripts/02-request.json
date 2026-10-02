@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "Though her chores were many, she always left a little room in her day for kindness. The birds answered her quiet songs with songs of their own.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

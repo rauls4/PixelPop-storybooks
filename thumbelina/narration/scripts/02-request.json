@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "Her friend named her Thumbelina and carefully held the blossom in two gentle hands. To Thumbelina, every petal was a soft curtain, and every drop of dew was a shining little world.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

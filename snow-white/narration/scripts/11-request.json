@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "Snow White chose a life among people who treated one another kindly. She and her seven friends celebrated with warm bread, berry jam, and songs beneath the trees.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

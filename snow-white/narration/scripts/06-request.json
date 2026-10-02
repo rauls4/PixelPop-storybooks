@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "One afternoon, a disguised visitor offered a shining red apple. Snow White did not know that it carried a sleeping spell. After one bite, she closed her eyes and fell into a deep enchanted sleep.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

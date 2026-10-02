@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "In time, they made a home filled with laughter, music, and kindness. Every evening, they left crumbs for the garden birds. And beneath the peaceful moon, Cinderella knew that her gentle heart had always been her greatest treasure. The end.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

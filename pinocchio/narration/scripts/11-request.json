@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "Back in the workshop, Pinocchio cared for Geppetto and kept his promises, one small choice at a time. The blue fairy saw his courage and kindness. By morning, the wooden puppet had become a real boy.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "id": "snow-white",
+  "title": "Snow White",
+  "style": "Jewel-toned storybook gouache",
+  "audio_status": "pending_generation",
+  "timing_status": "pending_measured_audio",
+  "transition_ms": 260,
+  "pixelpop_size": [
+    128,
+    64
+  ],
+  "display_size": [
+    64,
+    32
+  ],
+  "segments": [
+    {
+      "id": "01-forest",
+      "audio": "narration/01-forest.wav",
+      "pages": [
+        "01",
+        "02"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "02-cottage",
+      "audio": "narration/02-cottage.wav",
+      "pages": [
+        "03",
+        "04"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "03-apple",
+      "audio": "narration/03-apple.wav",
+      "pages": [
+        "05",
+        "06"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "04-sleep",
+      "audio": "narration/04-sleep.wav",
+      "pages": [
+        "07",
+        "08"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "05-waking",
+      "audio": "narration/05-waking.wav",
+      "pages": [
+        "09",
+        "10"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "06-ending",
+      "audio": "narration/06-ending.wav",
+      "pages": [
+        "11",
+        "12"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "id": "01",
+      "segment": 1,
+      "beat": "snow-white-face",
+      "narration": "Once upon a time, a kind young woman named Snow White lived near a great green forest. When a jealous queen made the palace an unhappy place, Snow White sought a peaceful home among the trees.",
+      "pixelpop_image": "pixelpop/01.jpg",
+      "normal_image": "normal/01.jpg",
+      "audio_clip": "narration/pages/01.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "02",
+      "segment": 1,
+      "beat": "forest-bird",
+      "narration": "A little bird perched beside her red ribbon, then fluttered ahead. She followed its bright song along a mossy path.",
+      "pixelpop_image": "pixelpop/02.jpg",
+      "normal_image": "normal/02.jpg",
+      "audio_clip": "narration/pages/02.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/01.wav"
+      }
+    },
+    {
+      "id": "03",
+      "segment": 2,
+      "beat": "cottage-door",
+      "narration": "At the end of the path stood a small cottage. Snow White knocked gently, then opened its welcoming door.",
+      "pixelpop_image": "pixelpop/03.jpg",
+      "normal_image": "normal/03.jpg",
+      "audio_clip": "narration/pages/03.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "04",
+      "segment": 2,
+      "beat": "seven-beds",
+      "narration": "Inside were seven little chairs and seven neatly made beds. The seven miners who lived there soon returned and welcomed Snow White. You may stay with us, they said. She helped make supper, and they shared stories beside the fire. The cottage became a home full of friendship.",
+      "pixelpop_image": "pixelpop/04.jpg",
+      "normal_image": "normal/04.jpg",
+      "audio_clip": "narration/pages/04.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/03.wav"
+      }
+    },
+    {
+      "id": "05",
+      "segment": 3,
+      "beat": "woodland-friends",
+      "narration": "Each morning, woodland friends visited the garden. Snow White left water for the birds and listened to the rustle of rabbits in the grass.",
+      "pixelpop_image": "pixelpop/05.jpg",
+      "normal_image": "normal/05.jpg",
+      "audio_clip": "narration/pages/05.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "06",
+      "segment": 3,
+      "beat": "red-apple",
+      "narration": "One afternoon, a disguised visitor offered a shining red apple. Snow White did not know that it carried a sleeping spell. After one bite, she closed her eyes and fell into a deep enchanted sleep.",
+      "pixelpop_image": "pixelpop/06.jpg",
+      "normal_image": "normal/06.jpg",
+      "audio_clip": "narration/pages/06.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/05.wav"
+      }
+    },
+    {
+      "id": "07",
+      "segment": 4,
+      "beat": "forest-shadows",
+      "narration": "The seven friends found Snow White resting beneath the trees. They called for help and stayed beside her.",
+      "pixelpop_image": "pixelpop/07.jpg",
+      "normal_image": "normal/07.jpg",
+      "audio_clip": "narration/pages/07.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "08",
+      "segment": 4,
+      "beat": "glass-canopy",
+      "narration": "Knowing that she was under a spell, they made a sheltered glass canopy in the quiet garden. Flowers surrounded her bed, and lanterns glowed as evening came. Nobody left her alone; the friends took turns keeping watch.",
+      "pixelpop_image": "pixelpop/08.jpg",
+      "normal_image": "normal/08.jpg",
+      "audio_clip": "narration/pages/08.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/07.wav"
+      }
+    },
+    {
+      "id": "09",
+      "segment": 5,
+      "beat": "prince-arriving",
+      "narration": "A young prince traveling through the forest stopped to help. As he and the friends gently moved the bed to a safer place, the enchanted piece of apple loosened.",
+      "pixelpop_image": "pixelpop/09.jpg",
+      "normal_image": "normal/09.jpg",
+      "audio_clip": "narration/pages/09.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "10",
+      "segment": 5,
+      "beat": "waking-smile",
+      "narration": "The spell broke. Snow White opened her eyes and saw familiar faces smiling through their tears. Thank you for staying with me, she whispered. The garden seemed to brighten all at once.",
+      "pixelpop_image": "pixelpop/10.jpg",
+      "normal_image": "normal/10.jpg",
+      "audio_clip": "narration/pages/10.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/09.wav"
+      }
+    },
+    {
+      "id": "11",
+      "segment": 6,
+      "beat": "cottage-celebration",
+      "narration": "Snow White chose a life among people who treated one another kindly. She and her seven friends celebrated with warm bread, berry jam, and songs beneath the trees.",
+      "pixelpop_image": "pixelpop/11.jpg",
+      "normal_image": "normal/11.jpg",
+      "audio_clip": "narration/pages/11.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "12",
+      "segment": 6,
+      "beat": "moonlit-forest",
+      "narration": "The prince often came to visit, and friendship filled the little cottage. When the moon rose, every window shone softly. Snow White rested safely, surrounded by the people who cared for her. The end.",
+      "pixelpop_image": "pixelpop/12.jpg",
+      "normal_image": "normal/12.jpg",
+      "audio_clip": "narration/pages/12.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/11.wav"
+      }
+    }
+  ],
+  "artwork_status": {
+    "normal": "12 pages prepared",
+    "pixelpop": "12 prepared close-up JPEGs"
+  },
+  "audio_format": {
+    "encoding": "PCM signed 16-bit",
+    "channels": 1,
+    "sample_rate_hz": 16000,
+    "reference": "current AudioOut.h; Cursor must verify current checkout"
+  },
+  "timing_contract": "Second page begins at first clip final PCM frame count; cue marks reveal start, fully visible 260ms later.",
+  "narration_production": {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-tts",
+    "voice": "coral",
+    "source_format": "wav",
+    "speed": 0.9,
+    "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+    "requests": 12,
+    "final_segments": 6,
+    "status": "pending_credentials_and_generation"
+  },
+  "installable": false,
+  "readiness_note": "Recorded narration, measured cues, capacity and playback review pending."
+}

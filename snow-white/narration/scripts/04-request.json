@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "Inside were seven little chairs and seven neatly made beds. The seven miners who lived there soon returned and welcomed Snow White. You may stay with us, they said. She helped make supper, and they shared stories beside the fire. The cottage became a home full of friendship.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

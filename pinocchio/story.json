@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "id": "pinocchio",
+  "title": "Pinocchio",
+  "style": "Warm carved wood and clay",
+  "audio_status": "pending_generation",
+  "timing_status": "pending_measured_audio",
+  "transition_ms": 260,
+  "pixelpop_size": [
+    128,
+    64
+  ],
+  "display_size": [
+    64,
+    32
+  ],
+  "segments": [
+    {
+      "id": "01-workshop",
+      "audio": "narration/01-workshop.wav",
+      "pages": [
+        "01",
+        "02"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "02-school",
+      "audio": "narration/02-school.wav",
+      "pages": [
+        "03",
+        "04"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "03-detour",
+      "audio": "narration/03-detour.wav",
+      "pages": [
+        "05",
+        "06"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "04-truth",
+      "audio": "narration/04-truth.wav",
+      "pages": [
+        "07",
+        "08"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "05-reunion",
+      "audio": "narration/05-reunion.wav",
+      "pages": [
+        "09",
+        "10"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "06-ending",
+      "audio": "narration/06-ending.wav",
+      "pages": [
+        "11",
+        "12"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "id": "01",
+      "segment": 1,
+      "beat": "wooden-face",
+      "narration": "Once upon a time, a woodcarver named Geppetto made a little wooden puppet in his cozy workshop. He carved a cheerful face, fitted tiny shoes, and named him Pinocchio.",
+      "pixelpop_image": "pixelpop/01.jpg",
+      "normal_image": "normal/01.jpg",
+      "audio_clip": "narration/pages/01.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "02",
+      "segment": 1,
+      "beat": "geppetto-workshop",
+      "narration": "How I wish you could talk, Geppetto whispered. That night, while the moon watched through the window, the puppet opened his eyes and answered, Hello!",
+      "pixelpop_image": "pixelpop/02.jpg",
+      "normal_image": "normal/02.jpg",
+      "audio_clip": "narration/pages/02.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/01.wav"
+      }
+    },
+    {
+      "id": "03",
+      "segment": 2,
+      "beat": "blue-fairy",
+      "narration": "A gentle blue fairy had given Pinocchio the chance to learn and grow. Be brave, be honest, and be kind, she told him.",
+      "pixelpop_image": "pixelpop/03.jpg",
+      "normal_image": "normal/03.jpg",
+      "audio_clip": "narration/pages/03.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "04",
+      "segment": 2,
+      "beat": "schoolbook",
+      "narration": "Geppetto gave him a schoolbook and a warm hug. Pinocchio set off along the village road, eager to discover the world. He promised to come home and tell Geppetto everything he learned.",
+      "pixelpop_image": "pixelpop/04.jpg",
+      "normal_image": "normal/04.jpg",
+      "audio_clip": "narration/pages/04.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/03.wav"
+      }
+    },
+    {
+      "id": "05",
+      "segment": 3,
+      "beat": "fox-and-cat",
+      "narration": "On the way, a fox and a cat pointed toward a bright puppet theater. School can wait, they said.",
+      "pixelpop_image": "pixelpop/05.jpg",
+      "normal_image": "normal/05.jpg",
+      "audio_clip": "narration/pages/05.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "06",
+      "segment": 3,
+      "beat": "puppet-theater",
+      "narration": "Pinocchio followed the music and forgot his promise. At first the stage seemed wonderful, but soon he missed home. He remembered that a friendly voice did not always offer good advice, and decided it was time to leave.",
+      "pixelpop_image": "pixelpop/06.jpg",
+      "normal_image": "normal/06.jpg",
+      "audio_clip": "narration/pages/06.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/05.wav"
+      }
+    },
+    {
+      "id": "07",
+      "segment": 4,
+      "beat": "growing-nose",
+      "narration": "When the fairy asked where he had been, Pinocchio made up a story. His wooden nose began to grow! He took a breath and told the truth. At once, his nose became small again.",
+      "pixelpop_image": "pixelpop/07.jpg",
+      "normal_image": "normal/07.jpg",
+      "audio_clip": "narration/pages/07.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "08",
+      "segment": 4,
+      "beat": "lantern-boat",
+      "narration": "Meanwhile, Geppetto had gone looking for him in a little lantern-lit boat. Pinocchio hurried toward the sea, determined to bring his father home.",
+      "pixelpop_image": "pixelpop/08.jpg",
+      "normal_image": "normal/08.jpg",
+      "audio_clip": "narration/pages/08.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/07.wav"
+      }
+    },
+    {
+      "id": "09",
+      "segment": 5,
+      "beat": "whale",
+      "narration": "Beyond the harbor, a great whale had swallowed Geppetto's boat. Pinocchio found them inside the whale's enormous mouth, where the lantern still glowed.",
+      "pixelpop_image": "pixelpop/09.jpg",
+      "normal_image": "normal/09.jpg",
+      "audio_clip": "narration/pages/09.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "10",
+      "segment": 5,
+      "beat": "geppetto-reunion",
+      "narration": "Father and son held each other close. When the whale rose and opened its mouth, they paddled carefully out on the little boat. Together they reached the quiet shore, safe at last.",
+      "pixelpop_image": "pixelpop/10.jpg",
+      "normal_image": "normal/10.jpg",
+      "audio_clip": "narration/pages/10.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/09.wav"
+      }
+    },
+    {
+      "id": "11",
+      "segment": 6,
+      "beat": "real-boy",
+      "narration": "Back in the workshop, Pinocchio cared for Geppetto and kept his promises, one small choice at a time. The blue fairy saw his courage and kindness. By morning, the wooden puppet had become a real boy.",
+      "pixelpop_image": "pixelpop/11.jpg",
+      "normal_image": "normal/11.jpg",
+      "audio_clip": "narration/pages/11.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "12",
+      "segment": 6,
+      "beat": "peaceful-workshop",
+      "narration": "Geppetto laughed with happiness. As the lamplight softened, they tucked the schoolbook beside the bed and rested, grateful to be home together. The end.",
+      "pixelpop_image": "pixelpop/12.jpg",
+      "normal_image": "normal/12.jpg",
+      "audio_clip": "narration/pages/12.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/11.wav"
+      }
+    }
+  ],
+  "audio_format": {
+    "encoding": "PCM signed 16-bit",
+    "channels": 1,
+    "sample_rate_hz": 16000,
+    "reference": "current AudioOut.h; Cursor must verify current checkout"
+  },
+  "timing_contract": "Second page begins at first clip final PCM frame count; cue marks reveal start, fully visible 260ms later.",
+  "narration_production": {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-tts",
+    "voice": "coral",
+    "source_format": "wav",
+    "speed": 0.9,
+    "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+    "requests": 12,
+    "final_segments": 6,
+    "status": "pending_credentials_and_generation"
+  },
+  "installable": false,
+  "readiness_note": "Recorded narration, measured cues, capacity and playback review pending."
+}

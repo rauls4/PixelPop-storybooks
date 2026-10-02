@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "id": "thumbelina",
+  "title": "Thumbelina",
+  "style": "Vivid miniature garden",
+  "audio_status": "pending_generation",
+  "timing_status": "pending_measured_audio",
+  "transition_ms": 260,
+  "pixelpop_size": [
+    128,
+    64
+  ],
+  "display_size": [
+    64,
+    32
+  ],
+  "segments": [
+    {
+      "id": "01-flower",
+      "audio": "narration/01-flower.wav",
+      "pages": [
+        "01",
+        "02"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "02-journey",
+      "audio": "narration/02-journey.wav",
+      "pages": [
+        "03",
+        "04"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "03-cottage",
+      "audio": "narration/03-cottage.wav",
+      "pages": [
+        "05",
+        "06"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "04-winter",
+      "audio": "narration/04-winter.wav",
+      "pages": [
+        "07",
+        "08"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "05-kingdom",
+      "audio": "narration/05-kingdom.wav",
+      "pages": [
+        "09",
+        "10"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "06-ending",
+      "audio": "narration/06-ending.wav",
+      "pages": [
+        "11",
+        "12"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "id": "01",
+      "segment": 1,
+      "beat": "flower-face",
+      "narration": "Once upon a time, a pink flower opened in a sunny garden. Inside sat a tiny girl, no taller than a thumb.",
+      "pixelpop_image": "pixelpop/01.jpg",
+      "normal_image": "normal/01.jpg",
+      "audio_clip": "narration/pages/01.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      },
+      "normal_image_status": "prepared"
+    },
+    {
+      "id": "02",
+      "segment": 1,
+      "beat": "flower-in-hands",
+      "narration": "Her friend named her Thumbelina and carefully held the blossom in two gentle hands. To Thumbelina, every petal was a soft curtain, and every drop of dew was a shining little world.",
+      "pixelpop_image": "pixelpop/02.jpg",
+      "normal_image": "normal/02.jpg",
+      "audio_clip": "narration/pages/02.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/01.wav"
+      },
+      "normal_image_status": "prepared"
+    },
+    {
+      "id": "03",
+      "segment": 2,
+      "beat": "leaf-boat",
+      "narration": "One morning, Thumbelina set out in a little leaf boat to explore the stream. The water rocked her gently beneath the reeds.",
+      "pixelpop_image": "pixelpop/03.jpg",
+      "normal_image": "normal/03.jpg",
+      "audio_clip": "narration/pages/03.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      },
+      "normal_image_status": "prepared"
+    },
+    {
+      "id": "04",
+      "segment": 2,
+      "beat": "swallow",
+      "narration": "A swallow flew beside her, dipping his blue wings over the pond. When the breeze grew strong, he guided her toward the shore. Thank you, she called. From that day, the two were friends.",
+      "pixelpop_image": "pixelpop/04.jpg",
+      "normal_image": "normal/04.jpg",
+      "audio_clip": "narration/pages/04.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/03.wav"
+      },
+      "normal_image_status": "prepared"
+    },
+    {
+      "id": "05",
+      "segment": 3,
+      "beat": "mouse-door",
+      "narration": "As autumn arrived, a friendly field mouse invited Thumbelina into her cozy cottage. Its round green door opened onto a room full of seeds, soft blankets, and warm soup.",
+      "pixelpop_image": "pixelpop/05.jpg",
+      "normal_image": "normal/05.jpg",
+      "audio_clip": "narration/pages/05.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      },
+      "normal_image_status": "prepared"
+    },
+    {
+      "id": "06",
+      "segment": 3,
+      "beat": "flower-lantern",
+      "narration": "A flower-shaped lantern glowed above the table. Thumbelina helped gather supper and sang quiet songs, while the mouse told stories of spring.",
+      "pixelpop_image": "pixelpop/06.jpg",
+      "normal_image": "normal/06.jpg",
+      "audio_clip": "narration/pages/06.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/05.wav"
+      },
+      "normal_image_status": "prepared"
+    },
+    {
+      "id": "07",
+      "segment": 4,
+      "beat": "snowflake",
+      "narration": "Winter laid bright snowflakes across the meadow. Thumbelina wrapped herself in a soft red scarf and thought of her swallow friend.",
+      "pixelpop_image": "pixelpop/07.jpg",
+      "normal_image": "normal/07.jpg",
+      "audio_clip": "narration/pages/07.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      },
+      "normal_image_status": "prepared"
+    },
+    {
+      "id": "08",
+      "segment": 4,
+      "beat": "warm-flower",
+      "narration": "She found him sheltering nearby and brought him seeds and a warm place to rest. Together they watched a flower bulb beside the window. Even in the cold, a new blossom was slowly preparing to open.",
+      "pixelpop_image": "pixelpop/08.jpg",
+      "normal_image": "normal/08.jpg",
+      "audio_clip": "narration/pages/08.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/07.wav"
+      },
+      "normal_image_status": "prepared"
+    },
+    {
+      "id": "09",
+      "segment": 5,
+      "beat": "fairy-wings",
+      "narration": "When spring returned, the swallow carried Thumbelina to a garden beyond the hills. There she met tiny flower folk, just her size. They welcomed her with a pair of delicate wings.",
+      "pixelpop_image": "pixelpop/09.jpg",
+      "normal_image": "normal/09.jpg",
+      "audio_clip": "narration/pages/09.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      },
+      "normal_image_status": "prepared"
+    },
+    {
+      "id": "10",
+      "segment": 5,
+      "beat": "flower-crown",
+      "narration": "Then they offered her a crown shaped like golden leaves. At last she had found a place where even the smallest voice could join the song.",
+      "pixelpop_image": "pixelpop/10.jpg",
+      "normal_image": "normal/10.jpg",
+      "audio_clip": "narration/pages/10.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/09.wav"
+      },
+      "normal_image_status": "prepared"
+    },
+    {
+      "id": "11",
+      "segment": 6,
+      "beat": "farewell-wing",
+      "narration": "Thumbelina gently touched the swallow's wing to thank him. You will always have a friend here, she said.",
+      "pixelpop_image": "pixelpop/11.jpg",
+      "normal_image": "normal/11.jpg",
+      "audio_clip": "narration/pages/11.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      },
+      "normal_image_status": "prepared"
+    },
+    {
+      "id": "12",
+      "segment": 6,
+      "beat": "moonlit-blossom",
+      "narration": "He promised to visit whenever the spring winds brought him back. That evening, she nestled inside a pink blossom beneath the moon. The garden grew quiet, and Thumbelina fell asleep knowing that kindness could carry a small heart a very long way. The end.",
+      "pixelpop_image": "pixelpop/12.jpg",
+      "normal_image": "normal/12.jpg",
+      "audio_clip": "narration/pages/12.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/11.wav"
+      },
+      "normal_image_status": "prepared"
+    }
+  ],
+  "artwork_status": {
+    "pixelpop": "12 prepared JPEGs",
+    "normal": "12 matching normal pages prepared"
+  },
+  "audio_format": {
+    "encoding": "PCM signed 16-bit",
+    "channels": 1,
+    "sample_rate_hz": 16000,
+    "reference": "current AudioOut.h; Cursor must verify current checkout"
+  },
+  "timing_contract": "Second page begins at first clip final PCM frame count; cue marks reveal start, fully visible 260ms later.",
+  "narration_production": {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-tts",
+    "voice": "coral",
+    "source_format": "wav",
+    "speed": 0.9,
+    "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+    "requests": 12,
+    "final_segments": 6,
+    "status": "pending_credentials_and_generation"
+  },
+  "installable": false,
+  "readiness_note": "Recorded narration, measured cues, capacity and playback review pending."
+}

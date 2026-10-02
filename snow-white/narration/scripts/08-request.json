@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "Knowing that she was under a spell, they made a sheltered glass canopy in the quiet garden. Flowers surrounded her bed, and lanterns glowed as evening came. Nobody left her alone; the friends took turns keeping watch.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

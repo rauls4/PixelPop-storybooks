@@ -1,0 +1,39 @@
+{
+  "tool": "built-in imagegen",
+  "reference": "cinderella/normal/01-source.png",
+  "normal": [
+    {
+      "page": "05",
+      "prompt": "Use case: illustration-story. Original Cinderella bedtime-book page. Scene: Cinderella arriving at a luminous palace ballroom wearing a silver-blue gown, chestnut hair elegantly pinned; wide golden doorway and warm candles. Luminous watercolor with gold highlights and blue-lavender shadows, matching reference first page's character and painterly style. Horizontal 2:1 composition, full bleed, no borders, text or watermarks. Detailed normal-display edition. Gentle original public-domain fairy tale interpretation."
+    },
+    {
+      "page": "06",
+      "prompt": "Use case: illustration-story. Original Cinderella bedtime-book page. Scene: Cinderella and a kindly young adult prince dancing gracefully in a golden ballroom; silver-blue gown and simple deep-blue formal suit, gentle expressions. Luminous watercolor with gold highlights and blue-lavender shadows, matching reference first page's character and painterly style. Horizontal 2:1 composition, full bleed, no borders, text or watermarks. Detailed normal-display edition. Gentle original public-domain fairy tale interpretation."
+    },
+    {
+      "page": "07",
+      "prompt": "Use case: illustration-story. Original Cinderella bedtime-book page. Scene: An antique palace clock with both hands pointing to twelve, warm gold clock face against blue-violet night; moon beyond arched window. Luminous watercolor with gold highlights and blue-lavender shadows, matching reference first page's character and painterly style. Horizontal 2:1 composition, full bleed, no borders, text or watermarks. Detailed normal-display edition. Gentle original public-domain fairy tale interpretation."
+    },
+    {
+      "page": "08",
+      "prompt": "Use case: illustration-story. Original Cinderella bedtime-book page. Scene: Cinderella in silver-blue gown hurrying down broad palace steps at night, leaving one glass slipper behind; flowing fabric and warm palace lights. Luminous watercolor with gold highlights and blue-lavender shadows, matching reference first page's character and painterly style. Horizontal 2:1 composition, full bleed, no borders, text or watermarks. Detailed normal-display edition. Gentle original public-domain fairy tale interpretation."
+    },
+    {
+      "page": "09",
+      "prompt": "Use case: illustration-story. Original Cinderella bedtime-book page. Scene: One delicate transparent glass slipper resting on a stone palace step, moonlit blue shadows and warm gold reflections. Luminous watercolor with gold highlights and blue-lavender shadows, matching reference first page's character and painterly style. Horizontal 2:1 composition, full bleed, no borders, text or watermarks. Detailed normal-display edition. Gentle original public-domain fairy tale interpretation."
+    },
+    {
+      "page": "10",
+      "prompt": "Use case: illustration-story. Original Cinderella bedtime-book page. Scene: A kindly young adult prince carrying a glass slipper on blue velvet cushion through peaceful village of stone cottages in morning light. Luminous watercolor with gold highlights and blue-lavender shadows, matching reference first page's character and painterly style. Horizontal 2:1 composition, full bleed, no borders, text or watermarks. Detailed normal-display edition. Gentle original public-domain fairy tale interpretation."
+    },
+    {
+      "page": "11",
+      "prompt": "Use case: illustration-story. Original Cinderella bedtime-book page. Scene: Cinderella seated in cozy cottage in simple blue dress; glass slipper fits her foot while kindly prince smiles nearby; chestnut hair and warm morning light. Luminous watercolor with gold highlights and blue-lavender shadows, matching reference first page's character and painterly style. Horizontal 2:1 composition, full bleed, no borders, text or watermarks. Detailed normal-display edition. Gentle original public-domain fairy tale interpretation."
+    },
+    {
+      "page": "12",
+      "prompt": "Use case: illustration-story. Original Cinderella bedtime-book page. Scene: Cinderella and kindly prince strolling together in peaceful moonlit garden with white flowers and glowing palace beyond; silver-blue gown and blue formal suit. Luminous watercolor with gold highlights and blue-lavender shadows, matching reference first page's character and painterly style. Horizontal 2:1 composition, full bleed, no borders, text or watermarks. Detailed normal-display edition. Gentle original public-domain fairy tale interpretation."
+    }
+  ],
+  "pixelpop": "Use case: illustration-story. Generate a new Cinderella close-up illustration sheet for a tiny 64 by 32 LED story display. Reference image supplies watercolor palette and chestnut-haired heroine only. Exactly twelve equally sized horizontal 2:1 panels, four columns and three rows; entire canvas ratio 8:3. Panels touch edge-to-edge, no borders, gutters, labels, lettering or watermarks. Each panel fills its frame with one bold simple focal subject, high contrast large shapes, uncluttered backgrounds, luminous gold and blue-lavender watercolor. Row-major scene sequence: 1 Cinderella's kind face beside orange hearth glow, simple blue dress; 2 three bright songbirds beside a wooden broom; 3 kindly silver-haired fairy godmother's face and glowing star wand; 4 golden pumpkin carriage large in frame; 5 silver-blue sparkling ballroom gown bodice with warm palace arch behind; 6 Cinderella and young adult prince smiling as they dance, two faces close; 7 large antique clock face with both hands at midnight; 8 glass-slippered foot stepping down moonlit stone palace stairs, silver-blue gown hem; 9 single sparkling transparent glass slipper on stone; 10 prince's hands carrying glass slipper on blue velvet cushion; 11 Cinderella's foot fitting the glass slipper, simple blue dress hem; 12 Cinderella and prince's smiling faces framed by moonlit white garden flowers. Original gentle interpretation of public-domain story, consistent adult heroine; object closeups for LED readability."
+}

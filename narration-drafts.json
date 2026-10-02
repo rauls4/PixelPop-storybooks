@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "adaptation": "Original gentle bedtime retellings of public-domain fairy tales; six narration segments and twelve visual beats per story.",
+  "voice_direction": "Warm, gentle adult narrator; unhurried bedtime storytelling, reassuring and softly expressive, no sound effects.",
+  "stories": [
+    {
+      "id": "cinderella",
+      "title": "Cinderella",
+      "style": "Luminous watercolor and gold",
+      "segments": [
+        {
+          "id": "01-hearth",
+          "frames": [
+            "hearth",
+            "helpful-birds"
+          ],
+          "text": "Once upon a time, a kind young woman named Cinderella lived in a house with a warm kitchen hearth. Each morning she swept the floor and cared for the garden birds. Though her chores were many, she always left a little room in her day for kindness. The birds answered her quiet songs with songs of their own."
+        },
+        {
+          "id": "02-magic",
+          "frames": [
+            "fairy-godmother",
+            "pumpkin-carriage"
+          ],
+          "text": "One evening, music drifted from the palace, where everyone had been invited to a ball. Cinderella wished she could go. Just then, her fairy godmother appeared with a gentle smile. A twinkle of her wand turned an ordinary pumpkin into a golden carriage. Remember, she said, this lovely magic lasts only until midnight."
+        },
+        {
+          "id": "03-ball",
+          "frames": [
+            "ballroom-arrival",
+            "dance"
+          ],
+          "text": "Cinderella arrived in a silver-blue gown and sparkling glass slippers. The palace windows shone like stars. A young prince welcomed her, and together they danced beneath the golden lights. They talked about gardens, books, and all the small things that made them happy. For a little while, Cinderella felt as light as a song."
+        },
+        {
+          "id": "04-midnight",
+          "frames": [
+            "midnight-clock",
+            "palace-steps"
+          ],
+          "text": "Then the clock began to chime. Midnight! Cinderella thanked the prince and hurried down the palace steps. One glass slipper slipped from her foot, but she had no time to stop. She reached home as the carriage became a pumpkin again. Her gown was simple once more, yet the memory of the evening still glowed in her heart."
+        },
+        {
+          "id": "05-slipper",
+          "frames": [
+            "glass-slipper",
+            "prince-searching"
+          ],
+          "text": "The prince found the glass slipper resting on a step. He hoped to find the kind person who had shared his dance. So he carried it through the village, asking after the guest who had hurried away. At last he reached Cinderella's house. From the kitchen doorway, she recognized him and stepped forward with a shy smile."
+        },
+        {
+          "id": "06-ending",
+          "frames": [
+            "slipper-fits",
+            "moonlit-garden"
+          ],
+          "text": "The slipper fitted Cinderella perfectly. But the prince was happiest to hear her voice and see her friendly smile again. In time, they made a home filled with laughter, music, and kindness. Every evening, they left crumbs for the garden birds. And beneath the peaceful moon, Cinderella knew that her gentle heart had always been her greatest treasure. The end."
+        }
+      ]
+    },
+    {
+      "id": "thumbelina",
+      "title": "Thumbelina",
+      "style": "Vivid miniature garden",
+      "segments": [
+        {
+          "id": "01-flower",
+          "frames": [
+            "flower-face",
+            "flower-in-hands"
+          ],
+          "text": "Once upon a time, a pink flower opened in a sunny garden. Inside sat a tiny girl, no taller than a thumb. Her friend named her Thumbelina and carefully held the blossom in two gentle hands. To Thumbelina, every petal was a soft curtain, and every drop of dew was a shining little world."
+        },
+        {
+          "id": "02-journey",
+          "frames": [
+            "leaf-boat",
+            "swallow"
+          ],
+          "text": "One morning, Thumbelina set out in a little leaf boat to explore the stream. The water rocked her gently beneath the reeds. A swallow flew beside her, dipping his blue wings over the pond. When the breeze grew strong, he guided her toward the shore. Thank you, she called. From that day, the two were friends."
+        },
+        {
+          "id": "03-cottage",
+          "frames": [
+            "mouse-door",
+            "flower-lantern"
+          ],
+          "text": "As autumn arrived, a friendly field mouse invited Thumbelina into her cozy cottage. Its round green door opened onto a room full of seeds, soft blankets, and warm soup. A flower-shaped lantern glowed above the table. Thumbelina helped gather supper and sang quiet songs, while the mouse told stories of spring."
+        },
+        {
+          "id": "04-winter",
+          "frames": [
+            "snowflake",
+            "warm-flower"
+          ],
+          "text": "Winter laid bright snowflakes across the meadow. Thumbelina wrapped herself in a soft red scarf and thought of her swallow friend. She found him sheltering nearby and brought him seeds and a warm place to rest. Together they watched a flower bulb beside the window. Even in the cold, a new blossom was slowly preparing to open."
+        },
+        {
+          "id": "05-kingdom",
+          "frames": [
+            "fairy-wings",
+            "flower-crown"
+          ],
+          "text": "When spring returned, the swallow carried Thumbelina to a garden beyond the hills. There she met tiny flower folk, just her size. They welcomed her with a pair of delicate wings. Then they offered her a crown shaped like golden leaves. At last she had found a place where even the smallest voice could join the song."
+        },
+        {
+          "id": "06-ending",
+          "frames": [
+            "farewell-wing",
+            "moonlit-blossom"
+          ],
+          "text": "Thumbelina gently touched the swallow's wing to thank him. You will always have a friend here, she said. He promised to visit whenever the spring winds brought him back. That evening, she nestled inside a pink blossom beneath the moon. The garden grew quiet, and Thumbelina fell asleep knowing that kindness could carry a small heart a very long way. The end."
+        }
+      ]
+    },
+    {
+      "id": "pinocchio",
+      "title": "Pinocchio",
+      "style": "Warm carved wood and clay",
+      "segments": [
+        {
+          "id": "01-workshop",
+          "frames": [
+            "wooden-face",
+            "geppetto-workshop"
+          ],
+          "text": "Once upon a time, a woodcarver named Geppetto made a little wooden puppet in his cozy workshop. He carved a cheerful face, fitted tiny shoes, and named him Pinocchio. How I wish you could talk, Geppetto whispered. That night, while the moon watched through the window, the puppet opened his eyes and answered, Hello!"
+        },
+        {
+          "id": "02-school",
+          "frames": [
+            "blue-fairy",
+            "schoolbook"
+          ],
+          "text": "A gentle blue fairy had given Pinocchio the chance to learn and grow. Be brave, be honest, and be kind, she told him. Geppetto gave him a schoolbook and a warm hug. Pinocchio set off along the village road, eager to discover the world. He promised to come home and tell Geppetto everything he learned."
+        },
+        {
+          "id": "03-detour",
+          "frames": [
+            "fox-and-cat",
+            "puppet-theater"
+          ],
+          "text": "On the way, a fox and a cat pointed toward a bright puppet theater. School can wait, they said. Pinocchio followed the music and forgot his promise. At first the stage seemed wonderful, but soon he missed home. He remembered that a friendly voice did not always offer good advice, and decided it was time to leave."
+        },
+        {
+          "id": "04-truth",
+          "frames": [
+            "growing-nose",
+            "lantern-boat"
+          ],
+          "text": "When the fairy asked where he had been, Pinocchio made up a story. His wooden nose began to grow! He took a breath and told the truth. At once, his nose became small again. Meanwhile, Geppetto had gone looking for him in a little lantern-lit boat. Pinocchio hurried toward the sea, determined to bring his father home."
+        },
+        {
+          "id": "05-reunion",
+          "frames": [
+            "whale",
+            "geppetto-reunion"
+          ],
+          "text": "Beyond the harbor, a great whale had swallowed Geppetto's boat. Pinocchio found them inside the whale's enormous mouth, where the lantern still glowed. Father and son held each other close. When the whale rose and opened its mouth, they paddled carefully out on the little boat. Together they reached the quiet shore, safe at last."
+        },
+        {
+          "id": "06-ending",
+          "frames": [
+            "real-boy",
+            "peaceful-workshop"
+          ],
+          "text": "Back in the workshop, Pinocchio cared for Geppetto and kept his promises, one small choice at a time. The blue fairy saw his courage and kindness. By morning, the wooden puppet had become a real boy. Geppetto laughed with happiness. As the lamplight softened, they tucked the schoolbook beside the bed and rested, grateful to be home together. The end."
+        }
+      ]
+    },
+    {
+      "id": "snow-white",
+      "title": "Snow White",
+      "style": "Jewel-toned storybook gouache",
+      "segments": [
+        {
+          "id": "01-forest",
+          "frames": [
+            "snow-white-face",
+            "forest-bird"
+          ],
+          "text": "Once upon a time, a kind young woman named Snow White lived near a great green forest. When a jealous queen made the palace an unhappy place, Snow White sought a peaceful home among the trees. A little bird perched beside her red ribbon, then fluttered ahead. She followed its bright song along a mossy path."
+        },
+        {
+          "id": "02-cottage",
+          "frames": [
+            "cottage-door",
+            "seven-beds"
+          ],
+          "text": "At the end of the path stood a small cottage. Snow White knocked gently, then opened its welcoming door. Inside were seven little chairs and seven neatly made beds. The seven miners who lived there soon returned and welcomed Snow White. You may stay with us, they said. She helped make supper, and they shared stories beside the fire. The cottage became a home full of friendship."
+        },
+        {
+          "id": "03-apple",
+          "frames": [
+            "woodland-friends",
+            "red-apple"
+          ],
+          "text": "Each morning, woodland friends visited the garden. Snow White left water for the birds and listened to the rustle of rabbits in the grass. One afternoon, a disguised visitor offered a shining red apple. Snow White did not know that it carried a sleeping spell. After one bite, she closed her eyes and fell into a deep enchanted sleep."
+        },
+        {
+          "id": "04-sleep",
+          "frames": [
+            "forest-shadows",
+            "glass-canopy"
+          ],
+          "text": "The seven friends found Snow White resting beneath the trees. They called for help and stayed beside her. Knowing that she was under a spell, they made a sheltered glass canopy in the quiet garden. Flowers surrounded her bed, and lanterns glowed as evening came. Nobody left her alone; the friends took turns keeping watch."
+        },
+        {
+          "id": "05-waking",
+          "frames": [
+            "prince-arriving",
+            "waking-smile"
+          ],
+          "text": "A young prince traveling through the forest stopped to help. As he and the friends gently moved the bed to a safer place, the enchanted piece of apple loosened. The spell broke. Snow White opened her eyes and saw familiar faces smiling through their tears. Thank you for staying with me, she whispered. The garden seemed to brighten all at once."
+        },
+        {
+          "id": "06-ending",
+          "frames": [
+            "cottage-celebration",
+            "moonlit-forest"
+          ],
+          "text": "Snow White chose a life among people who treated one another kindly. She and her seven friends celebrated with warm bread, berry jam, and songs beneath the trees. The prince often came to visit, and friendship filled the little cottage. When the moon rose, every window shone softly. Snow White rested safely, surrounded by the people who cared for her. The end."
+        }
+      ]
+    }
+  ]
+}

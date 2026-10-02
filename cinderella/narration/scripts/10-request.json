@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "So he carried it through the village, asking after the guest who had hurried away. At last he reached Cinderella's house. From the kitchen doorway, she recognized him and stepped forward with a shy smile.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

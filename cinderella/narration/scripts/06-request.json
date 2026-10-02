@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "A young prince welcomed her, and together they danced beneath the golden lights. They talked about gardens, books, and all the small things that made them happy. For a little while, Cinderella felt as light as a song.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}

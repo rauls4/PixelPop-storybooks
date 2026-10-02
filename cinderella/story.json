@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "id": "cinderella",
+  "title": "Cinderella",
+  "style": "Luminous watercolor and gold",
+  "audio_status": "pending_generation",
+  "timing_status": "pending_measured_audio",
+  "transition_ms": 260,
+  "pixelpop_size": [
+    128,
+    64
+  ],
+  "display_size": [
+    64,
+    32
+  ],
+  "segments": [
+    {
+      "id": "01-hearth",
+      "audio": "narration/01-hearth.wav",
+      "pages": [
+        "01",
+        "02"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "02-magic",
+      "audio": "narration/02-magic.wav",
+      "pages": [
+        "03",
+        "04"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "03-ball",
+      "audio": "narration/03-ball.wav",
+      "pages": [
+        "05",
+        "06"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "04-midnight",
+      "audio": "narration/04-midnight.wav",
+      "pages": [
+        "07",
+        "08"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "05-slipper",
+      "audio": "narration/05-slipper.wav",
+      "pages": [
+        "09",
+        "10"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    },
+    {
+      "id": "06-ending",
+      "audio": "narration/06-ending.wav",
+      "pages": [
+        "11",
+        "12"
+      ],
+      "page_start_ms": [
+        0,
+        null
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "id": "01",
+      "segment": 1,
+      "beat": "hearth",
+      "narration": "Once upon a time, a kind young woman named Cinderella lived in a house with a warm kitchen hearth. Each morning she swept the floor and cared for the garden birds.",
+      "pixelpop_image": "pixelpop/01.jpg",
+      "normal_image": "normal/01.jpg",
+      "audio_clip": "narration/pages/01.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "02",
+      "segment": 1,
+      "beat": "helpful-birds",
+      "narration": "Though her chores were many, she always left a little room in her day for kindness. The birds answered her quiet songs with songs of their own.",
+      "pixelpop_image": "pixelpop/02.jpg",
+      "normal_image": "normal/02.jpg",
+      "audio_clip": "narration/pages/02.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/01.wav"
+      }
+    },
+    {
+      "id": "03",
+      "segment": 2,
+      "beat": "fairy-godmother",
+      "narration": "One evening, music drifted from the palace, where everyone had been invited to a ball. Cinderella wished she could go. Just then, her fairy godmother appeared with a gentle smile.",
+      "pixelpop_image": "pixelpop/03.jpg",
+      "normal_image": "normal/03.jpg",
+      "audio_clip": "narration/pages/03.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "04",
+      "segment": 2,
+      "beat": "pumpkin-carriage",
+      "narration": "A twinkle of her wand turned an ordinary pumpkin into a golden carriage. Remember, she said, this lovely magic lasts only until midnight.",
+      "pixelpop_image": "pixelpop/04.jpg",
+      "normal_image": "normal/04.jpg",
+      "audio_clip": "narration/pages/04.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/03.wav"
+      }
+    },
+    {
+      "id": "05",
+      "segment": 3,
+      "beat": "ballroom-arrival",
+      "narration": "Cinderella arrived in a silver-blue gown and sparkling glass slippers. The palace windows shone like stars.",
+      "pixelpop_image": "pixelpop/05.jpg",
+      "normal_image": "normal/05.jpg",
+      "audio_clip": "narration/pages/05.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "06",
+      "segment": 3,
+      "beat": "dance",
+      "narration": "A young prince welcomed her, and together they danced beneath the golden lights. They talked about gardens, books, and all the small things that made them happy. For a little while, Cinderella felt as light as a song.",
+      "pixelpop_image": "pixelpop/06.jpg",
+      "normal_image": "normal/06.jpg",
+      "audio_clip": "narration/pages/06.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/05.wav"
+      }
+    },
+    {
+      "id": "07",
+      "segment": 4,
+      "beat": "midnight-clock",
+      "narration": "Then the clock began to chime. Midnight!",
+      "pixelpop_image": "pixelpop/07.jpg",
+      "normal_image": "normal/07.jpg",
+      "audio_clip": "narration/pages/07.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "08",
+      "segment": 4,
+      "beat": "palace-steps",
+      "narration": "Cinderella thanked the prince and hurried down the palace steps. One glass slipper slipped from her foot, but she had no time to stop. She reached home as the carriage became a pumpkin again. Her gown was simple once more, yet the memory of the evening still glowed in her heart.",
+      "pixelpop_image": "pixelpop/08.jpg",
+      "normal_image": "normal/08.jpg",
+      "audio_clip": "narration/pages/08.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/07.wav"
+      }
+    },
+    {
+      "id": "09",
+      "segment": 5,
+      "beat": "glass-slipper",
+      "narration": "The prince found the glass slipper resting on a step. He hoped to find the kind person who had shared his dance.",
+      "pixelpop_image": "pixelpop/09.jpg",
+      "normal_image": "normal/09.jpg",
+      "audio_clip": "narration/pages/09.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "10",
+      "segment": 5,
+      "beat": "prince-searching",
+      "narration": "So he carried it through the village, asking after the guest who had hurried away. At last he reached Cinderella's house. From the kitchen doorway, she recognized him and stepped forward with a shy smile.",
+      "pixelpop_image": "pixelpop/10.jpg",
+      "normal_image": "normal/10.jpg",
+      "audio_clip": "narration/pages/10.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/09.wav"
+      }
+    },
+    {
+      "id": "11",
+      "segment": 6,
+      "beat": "slipper-fits",
+      "narration": "The slipper fitted Cinderella perfectly. But the prince was happiest to hear her voice and see her friendly smile again.",
+      "pixelpop_image": "pixelpop/11.jpg",
+      "normal_image": "normal/11.jpg",
+      "audio_clip": "narration/pages/11.wav",
+      "cue": {
+        "kind": "segment_start",
+        "clip": null
+      }
+    },
+    {
+      "id": "12",
+      "segment": 6,
+      "beat": "moonlit-garden",
+      "narration": "In time, they made a home filled with laughter, music, and kindness. Every evening, they left crumbs for the garden birds. And beneath the peaceful moon, Cinderella knew that her gentle heart had always been her greatest treasure. The end.",
+      "pixelpop_image": "pixelpop/12.jpg",
+      "normal_image": "normal/12.jpg",
+      "audio_clip": "narration/pages/12.wav",
+      "cue": {
+        "kind": "after_clip",
+        "clip": "narration/pages/11.wav"
+      }
+    }
+  ],
+  "audio_format": {
+    "encoding": "PCM signed 16-bit",
+    "channels": 1,
+    "sample_rate_hz": 16000,
+    "reference": "current AudioOut.h; Cursor must verify current checkout"
+  },
+  "timing_contract": "Second page begins at first clip final PCM frame count; cue marks reveal start, fully visible 260ms later.",
+  "narration_production": {
+    "provider": "OpenAI",
+    "model": "gpt-4o-mini-tts",
+    "voice": "coral",
+    "source_format": "wav",
+    "speed": 0.9,
+    "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+    "requests": 12,
+    "final_segments": 6,
+    "status": "pending_credentials_and_generation"
+  },
+  "installable": false,
+  "readiness_note": "Recorded narration, measured cues, capacity and playback review pending."
+}

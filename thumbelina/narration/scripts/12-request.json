@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "coral",
+  "input": "He promised to visit whenever the spring winds brought him back. That evening, she nestled inside a pink blossom beneath the moon. The garden grew quiet, and Thumbelina fell asleep knowing that kindness could carry a small heart a very long way. The end.",
+  "instructions": "Calm bedtime narrator, warm gentle adult voice, reassuring and unhurried, soft expressive storytelling, no sound effects.",
+  "response_format": "wav",
+  "speed": 0.9
+}
