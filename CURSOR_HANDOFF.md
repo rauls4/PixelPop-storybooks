@@ -41,3 +41,7 @@ This is a work-in-progress pack. Artwork and audio must be verified before insta
 ## Editorial preview and versioned artwork
 
 `review.html` pairs each page with its exact narration and a true 64×32 preview. It opens locally without a server; keep its sibling story directories beside it. It does not simulate audio timing. Cinderella revised images are selected in story.json; use manifest paths rather than assuming all filenames are pixelpop/NN.jpg. Prior images are retained. Corrections cover the prince’s navy outfit, Cinderella’s everyday dress during slipper fitting, and her ball gown at midnight.
+
+## Read-along text
+
+See READALONG_HANDOFF.md and each book’s readalong.estimated.json / readalong.estimated.srt. These contain estimated word timestamps for editorial development; recorded audio does not exist yet. Preserve timing_status and disable synchronized highlighting until actual narration alignment and listening review.

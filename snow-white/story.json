@@ -269,5 +269,12 @@
     "status": "pending_credentials_and_generation"
   },
   "installable": false,
-  "readiness_note": "Recorded narration, measured cues, capacity and playback review pending."
+  "readiness_note": "Recorded narration, measured cues, capacity and playback review pending.",
+  "readalong": {
+    "estimated_words": "readalong.estimated.json",
+    "estimated_captions": "readalong.estimated.srt",
+    "timing_status": "estimated_not_audio_aligned",
+    "audio_aligned": false,
+    "enable_synchronized_highlighting": false
+  }
 }

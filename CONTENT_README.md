@@ -11,3 +11,5 @@ Read CURSOR_HANDOFF.md for playback rules, including the 260 ms reveal and measu
 Thumbelina normal/source-sheet.png is reference-only; the matching edition comes from normal/matched-sheet.png. Cinderella costume continuity corrected in versioned assets; story.json selects the revisions. Earlier artwork is preserved. review.html pairs every page with its exact narration and a true 64×32 panel preview. No board playback has been tested.
 
 Existing Little Red Riding Hood content remains unchanged in the repository. Firmware implementation and installation stay with Cursor.
+
+Read-along text: see READALONG_HANDOFF.md for word-level JSON, subtitle SRT and estimated page time codes. All times are explicitly estimates until recorded narration is aligned.

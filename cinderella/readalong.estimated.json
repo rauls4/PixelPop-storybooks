@@ -1,0 +1,2565 @@
+{
+  "schema_version": 1,
+  "story_id": "cinderella",
+  "title": "Cinderella",
+  "timing_status": "estimated_not_audio_aligned",
+  "audio_aligned": false,
+  "enable_synchronized_highlighting": false,
+  "estimate_model": {
+    "words_per_minute": 120,
+    "comma_pause_ms": 125,
+    "sentence_pause_ms": 350
+  },
+  "offset_units": "Unicode code points; convert to JS UTF-16 offsets before slicing",
+  "segments": [
+    {
+      "id": "01-hearth",
+      "audio": "narration/01-hearth.wav",
+      "story_start_ms": 0,
+      "pages": [
+        {
+          "id": "01",
+          "text": "Once upon a time, a kind young woman named Cinderella lived in a house with a warm kitchen hearth. Each morning she swept the floor and cared for the garden birds.",
+          "pixelpop_image": "pixelpop/01.jpg",
+          "normal_image": "normal/01.jpg",
+          "start_ms": 0,
+          "end_ms": 16325,
+          "words": [
+            {
+              "text": "Once",
+              "char_start": 0,
+              "char_end": 4,
+              "start_ms": 0,
+              "end_ms": 500
+            },
+            {
+              "text": "upon",
+              "char_start": 5,
+              "char_end": 9,
+              "start_ms": 500,
+              "end_ms": 1000
+            },
+            {
+              "text": "a",
+              "char_start": 10,
+              "char_end": 11,
+              "start_ms": 1000,
+              "end_ms": 1500
+            },
+            {
+              "text": "time,",
+              "char_start": 12,
+              "char_end": 17,
+              "start_ms": 1500,
+              "end_ms": 2000
+            },
+            {
+              "text": "a",
+              "char_start": 18,
+              "char_end": 19,
+              "start_ms": 2125,
+              "end_ms": 2625
+            },
+            {
+              "text": "kind",
+              "char_start": 20,
+              "char_end": 24,
+              "start_ms": 2625,
+              "end_ms": 3125
+            },
+            {
+              "text": "young",
+              "char_start": 25,
+              "char_end": 30,
+              "start_ms": 3125,
+              "end_ms": 3625
+            },
+            {
+              "text": "woman",
+              "char_start": 31,
+              "char_end": 36,
+              "start_ms": 3625,
+              "end_ms": 4125
+            },
+            {
+              "text": "named",
+              "char_start": 37,
+              "char_end": 42,
+              "start_ms": 4125,
+              "end_ms": 4625
+            },
+            {
+              "text": "Cinderella",
+              "char_start": 43,
+              "char_end": 53,
+              "start_ms": 4625,
+              "end_ms": 5125
+            },
+            {
+              "text": "lived",
+              "char_start": 54,
+              "char_end": 59,
+              "start_ms": 5125,
+              "end_ms": 5625
+            },
+            {
+              "text": "in",
+              "char_start": 60,
+              "char_end": 62,
+              "start_ms": 5625,
+              "end_ms": 6125
+            },
+            {
+              "text": "a",
+              "char_start": 63,
+              "char_end": 64,
+              "start_ms": 6125,
+              "end_ms": 6625
+            },
+            {
+              "text": "house",
+              "char_start": 65,
+              "char_end": 70,
+              "start_ms": 6625,
+              "end_ms": 7125
+            },
+            {
+              "text": "with",
+              "char_start": 71,
+              "char_end": 75,
+              "start_ms": 7125,
+              "end_ms": 7625
+            },
+            {
+              "text": "a",
+              "char_start": 76,
+              "char_end": 77,
+              "start_ms": 7625,
+              "end_ms": 8125
+            },
+            {
+              "text": "warm",
+              "char_start": 78,
+              "char_end": 82,
+              "start_ms": 8125,
+              "end_ms": 8625
+            },
+            {
+              "text": "kitchen",
+              "char_start": 83,
+              "char_end": 90,
+              "start_ms": 8625,
+              "end_ms": 9125
+            },
+            {
+              "text": "hearth.",
+              "char_start": 91,
+              "char_end": 98,
+              "start_ms": 9125,
+              "end_ms": 9625
+            },
+            {
+              "text": "Each",
+              "char_start": 99,
+              "char_end": 103,
+              "start_ms": 9975,
+              "end_ms": 10475
+            },
+            {
+              "text": "morning",
+              "char_start": 104,
+              "char_end": 111,
+              "start_ms": 10475,
+              "end_ms": 10975
+            },
+            {
+              "text": "she",
+              "char_start": 112,
+              "char_end": 115,
+              "start_ms": 10975,
+              "end_ms": 11475
+            },
+            {
+              "text": "swept",
+              "char_start": 116,
+              "char_end": 121,
+              "start_ms": 11475,
+              "end_ms": 11975
+            },
+            {
+              "text": "the",
+              "char_start": 122,
+              "char_end": 125,
+              "start_ms": 11975,
+              "end_ms": 12475
+            },
+            {
+              "text": "floor",
+              "char_start": 126,
+              "char_end": 131,
+              "start_ms": 12475,
+              "end_ms": 12975
+            },
+            {
+              "text": "and",
+              "char_start": 132,
+              "char_end": 135,
+              "start_ms": 12975,
+              "end_ms": 13475
+            },
+            {
+              "text": "cared",
+              "char_start": 136,
+              "char_end": 141,
+              "start_ms": 13475,
+              "end_ms": 13975
+            },
+            {
+              "text": "for",
+              "char_start": 142,
+              "char_end": 145,
+              "start_ms": 13975,
+              "end_ms": 14475
+            },
+            {
+              "text": "the",
+              "char_start": 146,
+              "char_end": 149,
+              "start_ms": 14475,
+              "end_ms": 14975
+            },
+            {
+              "text": "garden",
+              "char_start": 150,
+              "char_end": 156,
+              "start_ms": 14975,
+              "end_ms": 15475
+            },
+            {
+              "text": "birds.",
+              "char_start": 157,
+              "char_end": 163,
+              "start_ms": 15475,
+              "end_ms": 15975
+            }
+          ]
+        },
+        {
+          "id": "02",
+          "text": "Though her chores were many, she always left a little room in her day for kindness. The birds answered her quiet songs with songs of their own.",
+          "pixelpop_image": "pixelpop/02.jpg",
+          "normal_image": "normal/02.jpg",
+          "start_ms": 16325,
+          "end_ms": 30650,
+          "words": [
+            {
+              "text": "Though",
+              "char_start": 0,
+              "char_end": 6,
+              "start_ms": 16325,
+              "end_ms": 16825
+            },
+            {
+              "text": "her",
+              "char_start": 7,
+              "char_end": 10,
+              "start_ms": 16825,
+              "end_ms": 17325
+            },
+            {
+              "text": "chores",
+              "char_start": 11,
+              "char_end": 17,
+              "start_ms": 17325,
+              "end_ms": 17825
+            },
+            {
+              "text": "were",
+              "char_start": 18,
+              "char_end": 22,
+              "start_ms": 17825,
+              "end_ms": 18325
+            },
+            {
+              "text": "many,",
+              "char_start": 23,
+              "char_end": 28,
+              "start_ms": 18325,
+              "end_ms": 18825
+            },
+            {
+              "text": "she",
+              "char_start": 29,
+              "char_end": 32,
+              "start_ms": 18950,
+              "end_ms": 19450
+            },
+            {
+              "text": "always",
+              "char_start": 33,
+              "char_end": 39,
+              "start_ms": 19450,
+              "end_ms": 19950
+            },
+            {
+              "text": "left",
+              "char_start": 40,
+              "char_end": 44,
+              "start_ms": 19950,
+              "end_ms": 20450
+            },
+            {
+              "text": "a",
+              "char_start": 45,
+              "char_end": 46,
+              "start_ms": 20450,
+              "end_ms": 20950
+            },
+            {
+              "text": "little",
+              "char_start": 47,
+              "char_end": 53,
+              "start_ms": 20950,
+              "end_ms": 21450
+            },
+            {
+              "text": "room",
+              "char_start": 54,
+              "char_end": 58,
+              "start_ms": 21450,
+              "end_ms": 21950
+            },
+            {
+              "text": "in",
+              "char_start": 59,
+              "char_end": 61,
+              "start_ms": 21950,
+              "end_ms": 22450
+            },
+            {
+              "text": "her",
+              "char_start": 62,
+              "char_end": 65,
+              "start_ms": 22450,
+              "end_ms": 22950
+            },
+            {
+              "text": "day",
+              "char_start": 66,
+              "char_end": 69,
+              "start_ms": 22950,
+              "end_ms": 23450
+            },
+            {
+              "text": "for",
+              "char_start": 70,
+              "char_end": 73,
+              "start_ms": 23450,
+              "end_ms": 23950
+            },
+            {
+              "text": "kindness.",
+              "char_start": 74,
+              "char_end": 83,
+              "start_ms": 23950,
+              "end_ms": 24450
+            },
+            {
+              "text": "The",
+              "char_start": 84,
+              "char_end": 87,
+              "start_ms": 24800,
+              "end_ms": 25300
+            },
+            {
+              "text": "birds",
+              "char_start": 88,
+              "char_end": 93,
+              "start_ms": 25300,
+              "end_ms": 25800
+            },
+            {
+              "text": "answered",
+              "char_start": 94,
+              "char_end": 102,
+              "start_ms": 25800,
+              "end_ms": 26300
+            },
+            {
+              "text": "her",
+              "char_start": 103,
+              "char_end": 106,
+              "start_ms": 26300,
+              "end_ms": 26800
+            },
+            {
+              "text": "quiet",
+              "char_start": 107,
+              "char_end": 112,
+              "start_ms": 26800,
+              "end_ms": 27300
+            },
+            {
+              "text": "songs",
+              "char_start": 113,
+              "char_end": 118,
+              "start_ms": 27300,
+              "end_ms": 27800
+            },
+            {
+              "text": "with",
+              "char_start": 119,
+              "char_end": 123,
+              "start_ms": 27800,
+              "end_ms": 28300
+            },
+            {
+              "text": "songs",
+              "char_start": 124,
+              "char_end": 129,
+              "start_ms": 28300,
+              "end_ms": 28800
+            },
+            {
+              "text": "of",
+              "char_start": 130,
+              "char_end": 132,
+              "start_ms": 28800,
+              "end_ms": 29300
+            },
+            {
+              "text": "their",
+              "char_start": 133,
+              "char_end": 138,
+              "start_ms": 29300,
+              "end_ms": 29800
+            },
+            {
+              "text": "own.",
+              "char_start": 139,
+              "char_end": 143,
+              "start_ms": 29800,
+              "end_ms": 30300
+            }
+          ]
+        }
+      ],
+      "duration_ms": 30650
+    },
+    {
+      "id": "02-magic",
+      "audio": "narration/02-magic.wav",
+      "story_start_ms": 30650,
+      "pages": [
+        {
+          "id": "03",
+          "text": "One evening, music drifted from the palace, where everyone had been invited to a ball. Cinderella wished she could go. Just then, her fairy godmother appeared with a gentle smile.",
+          "pixelpop_image": "pixelpop/03.jpg",
+          "normal_image": "normal/03.jpg",
+          "start_ms": 0,
+          "end_ms": 16425,
+          "words": [
+            {
+              "text": "One",
+              "char_start": 0,
+              "char_end": 3,
+              "start_ms": 0,
+              "end_ms": 500
+            },
+            {
+              "text": "evening,",
+              "char_start": 4,
+              "char_end": 12,
+              "start_ms": 500,
+              "end_ms": 1000
+            },
+            {
+              "text": "music",
+              "char_start": 13,
+              "char_end": 18,
+              "start_ms": 1125,
+              "end_ms": 1625
+            },
+            {
+              "text": "drifted",
+              "char_start": 19,
+              "char_end": 26,
+              "start_ms": 1625,
+              "end_ms": 2125
+            },
+            {
+              "text": "from",
+              "char_start": 27,
+              "char_end": 31,
+              "start_ms": 2125,
+              "end_ms": 2625
+            },
+            {
+              "text": "the",
+              "char_start": 32,
+              "char_end": 35,
+              "start_ms": 2625,
+              "end_ms": 3125
+            },
+            {
+              "text": "palace,",
+              "char_start": 36,
+              "char_end": 43,
+              "start_ms": 3125,
+              "end_ms": 3625
+            },
+            {
+              "text": "where",
+              "char_start": 44,
+              "char_end": 49,
+              "start_ms": 3750,
+              "end_ms": 4250
+            },
+            {
+              "text": "everyone",
+              "char_start": 50,
+              "char_end": 58,
+              "start_ms": 4250,
+              "end_ms": 4750
+            },
+            {
+              "text": "had",
+              "char_start": 59,
+              "char_end": 62,
+              "start_ms": 4750,
+              "end_ms": 5250
+            },
+            {
+              "text": "been",
+              "char_start": 63,
+              "char_end": 67,
+              "start_ms": 5250,
+              "end_ms": 5750
+            },
+            {
+              "text": "invited",
+              "char_start": 68,
+              "char_end": 75,
+              "start_ms": 5750,
+              "end_ms": 6250
+            },
+            {
+              "text": "to",
+              "char_start": 76,
+              "char_end": 78,
+              "start_ms": 6250,
+              "end_ms": 6750
+            },
+            {
+              "text": "a",
+              "char_start": 79,
+              "char_end": 80,
+              "start_ms": 6750,
+              "end_ms": 7250
+            },
+            {
+              "text": "ball.",
+              "char_start": 81,
+              "char_end": 86,
+              "start_ms": 7250,
+              "end_ms": 7750
+            },
+            {
+              "text": "Cinderella",
+              "char_start": 87,
+              "char_end": 97,
+              "start_ms": 8100,
+              "end_ms": 8600
+            },
+            {
+              "text": "wished",
+              "char_start": 98,
+              "char_end": 104,
+              "start_ms": 8600,
+              "end_ms": 9100
+            },
+            {
+              "text": "she",
+              "char_start": 105,
+              "char_end": 108,
+              "start_ms": 9100,
+              "end_ms": 9600
+            },
+            {
+              "text": "could",
+              "char_start": 109,
+              "char_end": 114,
+              "start_ms": 9600,
+              "end_ms": 10100
+            },
+            {
+              "text": "go.",
+              "char_start": 115,
+              "char_end": 118,
+              "start_ms": 10100,
+              "end_ms": 10600
+            },
+            {
+              "text": "Just",
+              "char_start": 119,
+              "char_end": 123,
+              "start_ms": 10950,
+              "end_ms": 11450
+            },
+            {
+              "text": "then,",
+              "char_start": 124,
+              "char_end": 129,
+              "start_ms": 11450,
+              "end_ms": 11950
+            },
+            {
+              "text": "her",
+              "char_start": 130,
+              "char_end": 133,
+              "start_ms": 12075,
+              "end_ms": 12575
+            },
+            {
+              "text": "fairy",
+              "char_start": 134,
+              "char_end": 139,
+              "start_ms": 12575,
+              "end_ms": 13075
+            },
+            {
+              "text": "godmother",
+              "char_start": 140,
+              "char_end": 149,
+              "start_ms": 13075,
+              "end_ms": 13575
+            },
+            {
+              "text": "appeared",
+              "char_start": 150,
+              "char_end": 158,
+              "start_ms": 13575,
+              "end_ms": 14075
+            },
+            {
+              "text": "with",
+              "char_start": 159,
+              "char_end": 163,
+              "start_ms": 14075,
+              "end_ms": 14575
+            },
+            {
+              "text": "a",
+              "char_start": 164,
+              "char_end": 165,
+              "start_ms": 14575,
+              "end_ms": 15075
+            },
+            {
+              "text": "gentle",
+              "char_start": 166,
+              "char_end": 172,
+              "start_ms": 15075,
+              "end_ms": 15575
+            },
+            {
+              "text": "smile.",
+              "char_start": 173,
+              "char_end": 179,
+              "start_ms": 15575,
+              "end_ms": 16075
+            }
+          ]
+        },
+        {
+          "id": "04",
+          "text": "A twinkle of her wand turned an ordinary pumpkin into a golden carriage. Remember, she said, this lovely magic lasts only until midnight.",
+          "pixelpop_image": "pixelpop/04.jpg",
+          "normal_image": "normal/04.jpg",
+          "start_ms": 16425,
+          "end_ms": 28875,
+          "words": [
+            {
+              "text": "A",
+              "char_start": 0,
+              "char_end": 1,
+              "start_ms": 16425,
+              "end_ms": 16925
+            },
+            {
+              "text": "twinkle",
+              "char_start": 2,
+              "char_end": 9,
+              "start_ms": 16925,
+              "end_ms": 17425
+            },
+            {
+              "text": "of",
+              "char_start": 10,
+              "char_end": 12,
+              "start_ms": 17425,
+              "end_ms": 17925
+            },
+            {
+              "text": "her",
+              "char_start": 13,
+              "char_end": 16,
+              "start_ms": 17925,
+              "end_ms": 18425
+            },
+            {
+              "text": "wand",
+              "char_start": 17,
+              "char_end": 21,
+              "start_ms": 18425,
+              "end_ms": 18925
+            },
+            {
+              "text": "turned",
+              "char_start": 22,
+              "char_end": 28,
+              "start_ms": 18925,
+              "end_ms": 19425
+            },
+            {
+              "text": "an",
+              "char_start": 29,
+              "char_end": 31,
+              "start_ms": 19425,
+              "end_ms": 19925
+            },
+            {
+              "text": "ordinary",
+              "char_start": 32,
+              "char_end": 40,
+              "start_ms": 19925,
+              "end_ms": 20425
+            },
+            {
+              "text": "pumpkin",
+              "char_start": 41,
+              "char_end": 48,
+              "start_ms": 20425,
+              "end_ms": 20925
+            },
+            {
+              "text": "into",
+              "char_start": 49,
+              "char_end": 53,
+              "start_ms": 20925,
+              "end_ms": 21425
+            },
+            {
+              "text": "a",
+              "char_start": 54,
+              "char_end": 55,
+              "start_ms": 21425,
+              "end_ms": 21925
+            },
+            {
+              "text": "golden",
+              "char_start": 56,
+              "char_end": 62,
+              "start_ms": 21925,
+              "end_ms": 22425
+            },
+            {
+              "text": "carriage.",
+              "char_start": 63,
+              "char_end": 72,
+              "start_ms": 22425,
+              "end_ms": 22925
+            },
+            {
+              "text": "Remember,",
+              "char_start": 73,
+              "char_end": 82,
+              "start_ms": 23275,
+              "end_ms": 23775
+            },
+            {
+              "text": "she",
+              "char_start": 83,
+              "char_end": 86,
+              "start_ms": 23900,
+              "end_ms": 24400
+            },
+            {
+              "text": "said,",
+              "char_start": 87,
+              "char_end": 92,
+              "start_ms": 24400,
+              "end_ms": 24900
+            },
+            {
+              "text": "this",
+              "char_start": 93,
+              "char_end": 97,
+              "start_ms": 25025,
+              "end_ms": 25525
+            },
+            {
+              "text": "lovely",
+              "char_start": 98,
+              "char_end": 104,
+              "start_ms": 25525,
+              "end_ms": 26025
+            },
+            {
+              "text": "magic",
+              "char_start": 105,
+              "char_end": 110,
+              "start_ms": 26025,
+              "end_ms": 26525
+            },
+            {
+              "text": "lasts",
+              "char_start": 111,
+              "char_end": 116,
+              "start_ms": 26525,
+              "end_ms": 27025
+            },
+            {
+              "text": "only",
+              "char_start": 117,
+              "char_end": 121,
+              "start_ms": 27025,
+              "end_ms": 27525
+            },
+            {
+              "text": "until",
+              "char_start": 122,
+              "char_end": 127,
+              "start_ms": 27525,
+              "end_ms": 28025
+            },
+            {
+              "text": "midnight.",
+              "char_start": 128,
+              "char_end": 137,
+              "start_ms": 28025,
+              "end_ms": 28525
+            }
+          ]
+        }
+      ],
+      "duration_ms": 28875
+    },
+    {
+      "id": "03-ball",
+      "audio": "narration/03-ball.wav",
+      "story_start_ms": 59525,
+      "pages": [
+        {
+          "id": "05",
+          "text": "Cinderella arrived in a silver-blue gown and sparkling glass slippers. The palace windows shone like stars.",
+          "pixelpop_image": "pixelpop/05.jpg",
+          "normal_image": "normal/05.jpg",
+          "start_ms": 0,
+          "end_ms": 8700,
+          "words": [
+            {
+              "text": "Cinderella",
+              "char_start": 0,
+              "char_end": 10,
+              "start_ms": 0,
+              "end_ms": 500
+            },
+            {
+              "text": "arrived",
+              "char_start": 11,
+              "char_end": 18,
+              "start_ms": 500,
+              "end_ms": 1000
+            },
+            {
+              "text": "in",
+              "char_start": 19,
+              "char_end": 21,
+              "start_ms": 1000,
+              "end_ms": 1500
+            },
+            {
+              "text": "a",
+              "char_start": 22,
+              "char_end": 23,
+              "start_ms": 1500,
+              "end_ms": 2000
+            },
+            {
+              "text": "silver-blue",
+              "char_start": 24,
+              "char_end": 35,
+              "start_ms": 2000,
+              "end_ms": 2500
+            },
+            {
+              "text": "gown",
+              "char_start": 36,
+              "char_end": 40,
+              "start_ms": 2500,
+              "end_ms": 3000
+            },
+            {
+              "text": "and",
+              "char_start": 41,
+              "char_end": 44,
+              "start_ms": 3000,
+              "end_ms": 3500
+            },
+            {
+              "text": "sparkling",
+              "char_start": 45,
+              "char_end": 54,
+              "start_ms": 3500,
+              "end_ms": 4000
+            },
+            {
+              "text": "glass",
+              "char_start": 55,
+              "char_end": 60,
+              "start_ms": 4000,
+              "end_ms": 4500
+            },
+            {
+              "text": "slippers.",
+              "char_start": 61,
+              "char_end": 70,
+              "start_ms": 4500,
+              "end_ms": 5000
+            },
+            {
+              "text": "The",
+              "char_start": 71,
+              "char_end": 74,
+              "start_ms": 5350,
+              "end_ms": 5850
+            },
+            {
+              "text": "palace",
+              "char_start": 75,
+              "char_end": 81,
+              "start_ms": 5850,
+              "end_ms": 6350
+            },
+            {
+              "text": "windows",
+              "char_start": 82,
+              "char_end": 89,
+              "start_ms": 6350,
+              "end_ms": 6850
+            },
+            {
+              "text": "shone",
+              "char_start": 90,
+              "char_end": 95,
+              "start_ms": 6850,
+              "end_ms": 7350
+            },
+            {
+              "text": "like",
+              "char_start": 96,
+              "char_end": 100,
+              "start_ms": 7350,
+              "end_ms": 7850
+            },
+            {
+              "text": "stars.",
+              "char_start": 101,
+              "char_end": 107,
+              "start_ms": 7850,
+              "end_ms": 8350
+            }
+          ]
+        },
+        {
+          "id": "06",
+          "text": "A young prince welcomed her, and together they danced beneath the golden lights. They talked about gardens, books, and all the small things that made them happy. For a little while, Cinderella felt as light as a song.",
+          "pixelpop_image": "pixelpop/revised/06.jpg",
+          "normal_image": "normal/06.jpg",
+          "start_ms": 8700,
+          "end_ms": 29250,
+          "words": [
+            {
+              "text": "A",
+              "char_start": 0,
+              "char_end": 1,
+              "start_ms": 8700,
+              "end_ms": 9200
+            },
+            {
+              "text": "young",
+              "char_start": 2,
+              "char_end": 7,
+              "start_ms": 9200,
+              "end_ms": 9700
+            },
+            {
+              "text": "prince",
+              "char_start": 8,
+              "char_end": 14,
+              "start_ms": 9700,
+              "end_ms": 10200
+            },
+            {
+              "text": "welcomed",
+              "char_start": 15,
+              "char_end": 23,
+              "start_ms": 10200,
+              "end_ms": 10700
+            },
+            {
+              "text": "her,",
+              "char_start": 24,
+              "char_end": 28,
+              "start_ms": 10700,
+              "end_ms": 11200
+            },
+            {
+              "text": "and",
+              "char_start": 29,
+              "char_end": 32,
+              "start_ms": 11325,
+              "end_ms": 11825
+            },
+            {
+              "text": "together",
+              "char_start": 33,
+              "char_end": 41,
+              "start_ms": 11825,
+              "end_ms": 12325
+            },
+            {
+              "text": "they",
+              "char_start": 42,
+              "char_end": 46,
+              "start_ms": 12325,
+              "end_ms": 12825
+            },
+            {
+              "text": "danced",
+              "char_start": 47,
+              "char_end": 53,
+              "start_ms": 12825,
+              "end_ms": 13325
+            },
+            {
+              "text": "beneath",
+              "char_start": 54,
+              "char_end": 61,
+              "start_ms": 13325,
+              "end_ms": 13825
+            },
+            {
+              "text": "the",
+              "char_start": 62,
+              "char_end": 65,
+              "start_ms": 13825,
+              "end_ms": 14325
+            },
+            {
+              "text": "golden",
+              "char_start": 66,
+              "char_end": 72,
+              "start_ms": 14325,
+              "end_ms": 14825
+            },
+            {
+              "text": "lights.",
+              "char_start": 73,
+              "char_end": 80,
+              "start_ms": 14825,
+              "end_ms": 15325
+            },
+            {
+              "text": "They",
+              "char_start": 81,
+              "char_end": 85,
+              "start_ms": 15675,
+              "end_ms": 16175
+            },
+            {
+              "text": "talked",
+              "char_start": 86,
+              "char_end": 92,
+              "start_ms": 16175,
+              "end_ms": 16675
+            },
+            {
+              "text": "about",
+              "char_start": 93,
+              "char_end": 98,
+              "start_ms": 16675,
+              "end_ms": 17175
+            },
+            {
+              "text": "gardens,",
+              "char_start": 99,
+              "char_end": 107,
+              "start_ms": 17175,
+              "end_ms": 17675
+            },
+            {
+              "text": "books,",
+              "char_start": 108,
+              "char_end": 114,
+              "start_ms": 17800,
+              "end_ms": 18300
+            },
+            {
+              "text": "and",
+              "char_start": 115,
+              "char_end": 118,
+              "start_ms": 18425,
+              "end_ms": 18925
+            },
+            {
+              "text": "all",
+              "char_start": 119,
+              "char_end": 122,
+              "start_ms": 18925,
+              "end_ms": 19425
+            },
+            {
+              "text": "the",
+              "char_start": 123,
+              "char_end": 126,
+              "start_ms": 19425,
+              "end_ms": 19925
+            },
+            {
+              "text": "small",
+              "char_start": 127,
+              "char_end": 132,
+              "start_ms": 19925,
+              "end_ms": 20425
+            },
+            {
+              "text": "things",
+              "char_start": 133,
+              "char_end": 139,
+              "start_ms": 20425,
+              "end_ms": 20925
+            },
+            {
+              "text": "that",
+              "char_start": 140,
+              "char_end": 144,
+              "start_ms": 20925,
+              "end_ms": 21425
+            },
+            {
+              "text": "made",
+              "char_start": 145,
+              "char_end": 149,
+              "start_ms": 21425,
+              "end_ms": 21925
+            },
+            {
+              "text": "them",
+              "char_start": 150,
+              "char_end": 154,
+              "start_ms": 21925,
+              "end_ms": 22425
+            },
+            {
+              "text": "happy.",
+              "char_start": 155,
+              "char_end": 161,
+              "start_ms": 22425,
+              "end_ms": 22925
+            },
+            {
+              "text": "For",
+              "char_start": 162,
+              "char_end": 165,
+              "start_ms": 23275,
+              "end_ms": 23775
+            },
+            {
+              "text": "a",
+              "char_start": 166,
+              "char_end": 167,
+              "start_ms": 23775,
+              "end_ms": 24275
+            },
+            {
+              "text": "little",
+              "char_start": 168,
+              "char_end": 174,
+              "start_ms": 24275,
+              "end_ms": 24775
+            },
+            {
+              "text": "while,",
+              "char_start": 175,
+              "char_end": 181,
+              "start_ms": 24775,
+              "end_ms": 25275
+            },
+            {
+              "text": "Cinderella",
+              "char_start": 182,
+              "char_end": 192,
+              "start_ms": 25400,
+              "end_ms": 25900
+            },
+            {
+              "text": "felt",
+              "char_start": 193,
+              "char_end": 197,
+              "start_ms": 25900,
+              "end_ms": 26400
+            },
+            {
+              "text": "as",
+              "char_start": 198,
+              "char_end": 200,
+              "start_ms": 26400,
+              "end_ms": 26900
+            },
+            {
+              "text": "light",
+              "char_start": 201,
+              "char_end": 206,
+              "start_ms": 26900,
+              "end_ms": 27400
+            },
+            {
+              "text": "as",
+              "char_start": 207,
+              "char_end": 209,
+              "start_ms": 27400,
+              "end_ms": 27900
+            },
+            {
+              "text": "a",
+              "char_start": 210,
+              "char_end": 211,
+              "start_ms": 27900,
+              "end_ms": 28400
+            },
+            {
+              "text": "song.",
+              "char_start": 212,
+              "char_end": 217,
+              "start_ms": 28400,
+              "end_ms": 28900
+            }
+          ]
+        }
+      ],
+      "duration_ms": 29250
+    },
+    {
+      "id": "04-midnight",
+      "audio": "narration/04-midnight.wav",
+      "story_start_ms": 88775,
+      "pages": [
+        {
+          "id": "07",
+          "text": "Then the clock began to chime. Midnight!",
+          "pixelpop_image": "pixelpop/07.jpg",
+          "normal_image": "normal/07-v2.jpg",
+          "start_ms": 0,
+          "end_ms": 4200,
+          "words": [
+            {
+              "text": "Then",
+              "char_start": 0,
+              "char_end": 4,
+              "start_ms": 0,
+              "end_ms": 500
+            },
+            {
+              "text": "the",
+              "char_start": 5,
+              "char_end": 8,
+              "start_ms": 500,
+              "end_ms": 1000
+            },
+            {
+              "text": "clock",
+              "char_start": 9,
+              "char_end": 14,
+              "start_ms": 1000,
+              "end_ms": 1500
+            },
+            {
+              "text": "began",
+              "char_start": 15,
+              "char_end": 20,
+              "start_ms": 1500,
+              "end_ms": 2000
+            },
+            {
+              "text": "to",
+              "char_start": 21,
+              "char_end": 23,
+              "start_ms": 2000,
+              "end_ms": 2500
+            },
+            {
+              "text": "chime.",
+              "char_start": 24,
+              "char_end": 30,
+              "start_ms": 2500,
+              "end_ms": 3000
+            },
+            {
+              "text": "Midnight!",
+              "char_start": 31,
+              "char_end": 40,
+              "start_ms": 3350,
+              "end_ms": 3850
+            }
+          ]
+        },
+        {
+          "id": "08",
+          "text": "Cinderella thanked the prince and hurried down the palace steps. One glass slipper slipped from her foot, but she had no time to stop. She reached home as the carriage became a pumpkin again. Her gown was simple once more, yet the memory of the evening still glowed in her heart.",
+          "pixelpop_image": "pixelpop/08.jpg",
+          "normal_image": "normal/08.jpg",
+          "start_ms": 4200,
+          "end_ms": 31350,
+          "words": [
+            {
+              "text": "Cinderella",
+              "char_start": 0,
+              "char_end": 10,
+              "start_ms": 4200,
+              "end_ms": 4700
+            },
+            {
+              "text": "thanked",
+              "char_start": 11,
+              "char_end": 18,
+              "start_ms": 4700,
+              "end_ms": 5200
+            },
+            {
+              "text": "the",
+              "char_start": 19,
+              "char_end": 22,
+              "start_ms": 5200,
+              "end_ms": 5700
+            },
+            {
+              "text": "prince",
+              "char_start": 23,
+              "char_end": 29,
+              "start_ms": 5700,
+              "end_ms": 6200
+            },
+            {
+              "text": "and",
+              "char_start": 30,
+              "char_end": 33,
+              "start_ms": 6200,
+              "end_ms": 6700
+            },
+            {
+              "text": "hurried",
+              "char_start": 34,
+              "char_end": 41,
+              "start_ms": 6700,
+              "end_ms": 7200
+            },
+            {
+              "text": "down",
+              "char_start": 42,
+              "char_end": 46,
+              "start_ms": 7200,
+              "end_ms": 7700
+            },
+            {
+              "text": "the",
+              "char_start": 47,
+              "char_end": 50,
+              "start_ms": 7700,
+              "end_ms": 8200
+            },
+            {
+              "text": "palace",
+              "char_start": 51,
+              "char_end": 57,
+              "start_ms": 8200,
+              "end_ms": 8700
+            },
+            {
+              "text": "steps.",
+              "char_start": 58,
+              "char_end": 64,
+              "start_ms": 8700,
+              "end_ms": 9200
+            },
+            {
+              "text": "One",
+              "char_start": 65,
+              "char_end": 68,
+              "start_ms": 9550,
+              "end_ms": 10050
+            },
+            {
+              "text": "glass",
+              "char_start": 69,
+              "char_end": 74,
+              "start_ms": 10050,
+              "end_ms": 10550
+            },
+            {
+              "text": "slipper",
+              "char_start": 75,
+              "char_end": 82,
+              "start_ms": 10550,
+              "end_ms": 11050
+            },
+            {
+              "text": "slipped",
+              "char_start": 83,
+              "char_end": 90,
+              "start_ms": 11050,
+              "end_ms": 11550
+            },
+            {
+              "text": "from",
+              "char_start": 91,
+              "char_end": 95,
+              "start_ms": 11550,
+              "end_ms": 12050
+            },
+            {
+              "text": "her",
+              "char_start": 96,
+              "char_end": 99,
+              "start_ms": 12050,
+              "end_ms": 12550
+            },
+            {
+              "text": "foot,",
+              "char_start": 100,
+              "char_end": 105,
+              "start_ms": 12550,
+              "end_ms": 13050
+            },
+            {
+              "text": "but",
+              "char_start": 106,
+              "char_end": 109,
+              "start_ms": 13175,
+              "end_ms": 13675
+            },
+            {
+              "text": "she",
+              "char_start": 110,
+              "char_end": 113,
+              "start_ms": 13675,
+              "end_ms": 14175
+            },
+            {
+              "text": "had",
+              "char_start": 114,
+              "char_end": 117,
+              "start_ms": 14175,
+              "end_ms": 14675
+            },
+            {
+              "text": "no",
+              "char_start": 118,
+              "char_end": 120,
+              "start_ms": 14675,
+              "end_ms": 15175
+            },
+            {
+              "text": "time",
+              "char_start": 121,
+              "char_end": 125,
+              "start_ms": 15175,
+              "end_ms": 15675
+            },
+            {
+              "text": "to",
+              "char_start": 126,
+              "char_end": 128,
+              "start_ms": 15675,
+              "end_ms": 16175
+            },
+            {
+              "text": "stop.",
+              "char_start": 129,
+              "char_end": 134,
+              "start_ms": 16175,
+              "end_ms": 16675
+            },
+            {
+              "text": "She",
+              "char_start": 135,
+              "char_end": 138,
+              "start_ms": 17025,
+              "end_ms": 17525
+            },
+            {
+              "text": "reached",
+              "char_start": 139,
+              "char_end": 146,
+              "start_ms": 17525,
+              "end_ms": 18025
+            },
+            {
+              "text": "home",
+              "char_start": 147,
+              "char_end": 151,
+              "start_ms": 18025,
+              "end_ms": 18525
+            },
+            {
+              "text": "as",
+              "char_start": 152,
+              "char_end": 154,
+              "start_ms": 18525,
+              "end_ms": 19025
+            },
+            {
+              "text": "the",
+              "char_start": 155,
+              "char_end": 158,
+              "start_ms": 19025,
+              "end_ms": 19525
+            },
+            {
+              "text": "carriage",
+              "char_start": 159,
+              "char_end": 167,
+              "start_ms": 19525,
+              "end_ms": 20025
+            },
+            {
+              "text": "became",
+              "char_start": 168,
+              "char_end": 174,
+              "start_ms": 20025,
+              "end_ms": 20525
+            },
+            {
+              "text": "a",
+              "char_start": 175,
+              "char_end": 176,
+              "start_ms": 20525,
+              "end_ms": 21025
+            },
+            {
+              "text": "pumpkin",
+              "char_start": 177,
+              "char_end": 184,
+              "start_ms": 21025,
+              "end_ms": 21525
+            },
+            {
+              "text": "again.",
+              "char_start": 185,
+              "char_end": 191,
+              "start_ms": 21525,
+              "end_ms": 22025
+            },
+            {
+              "text": "Her",
+              "char_start": 192,
+              "char_end": 195,
+              "start_ms": 22375,
+              "end_ms": 22875
+            },
+            {
+              "text": "gown",
+              "char_start": 196,
+              "char_end": 200,
+              "start_ms": 22875,
+              "end_ms": 23375
+            },
+            {
+              "text": "was",
+              "char_start": 201,
+              "char_end": 204,
+              "start_ms": 23375,
+              "end_ms": 23875
+            },
+            {
+              "text": "simple",
+              "char_start": 205,
+              "char_end": 211,
+              "start_ms": 23875,
+              "end_ms": 24375
+            },
+            {
+              "text": "once",
+              "char_start": 212,
+              "char_end": 216,
+              "start_ms": 24375,
+              "end_ms": 24875
+            },
+            {
+              "text": "more,",
+              "char_start": 217,
+              "char_end": 222,
+              "start_ms": 24875,
+              "end_ms": 25375
+            },
+            {
+              "text": "yet",
+              "char_start": 223,
+              "char_end": 226,
+              "start_ms": 25500,
+              "end_ms": 26000
+            },
+            {
+              "text": "the",
+              "char_start": 227,
+              "char_end": 230,
+              "start_ms": 26000,
+              "end_ms": 26500
+            },
+            {
+              "text": "memory",
+              "char_start": 231,
+              "char_end": 237,
+              "start_ms": 26500,
+              "end_ms": 27000
+            },
+            {
+              "text": "of",
+              "char_start": 238,
+              "char_end": 240,
+              "start_ms": 27000,
+              "end_ms": 27500
+            },
+            {
+              "text": "the",
+              "char_start": 241,
+              "char_end": 244,
+              "start_ms": 27500,
+              "end_ms": 28000
+            },
+            {
+              "text": "evening",
+              "char_start": 245,
+              "char_end": 252,
+              "start_ms": 28000,
+              "end_ms": 28500
+            },
+            {
+              "text": "still",
+              "char_start": 253,
+              "char_end": 258,
+              "start_ms": 28500,
+              "end_ms": 29000
+            },
+            {
+              "text": "glowed",
+              "char_start": 259,
+              "char_end": 265,
+              "start_ms": 29000,
+              "end_ms": 29500
+            },
+            {
+              "text": "in",
+              "char_start": 266,
+              "char_end": 268,
+              "start_ms": 29500,
+              "end_ms": 30000
+            },
+            {
+              "text": "her",
+              "char_start": 269,
+              "char_end": 272,
+              "start_ms": 30000,
+              "end_ms": 30500
+            },
+            {
+              "text": "heart.",
+              "char_start": 273,
+              "char_end": 279,
+              "start_ms": 30500,
+              "end_ms": 31000
+            }
+          ]
+        }
+      ],
+      "duration_ms": 31350
+    },
+    {
+      "id": "05-slipper",
+      "audio": "narration/05-slipper.wav",
+      "story_start_ms": 120125,
+      "pages": [
+        {
+          "id": "09",
+          "text": "The prince found the glass slipper resting on a step. He hoped to find the kind person who had shared his dance.",
+          "pixelpop_image": "pixelpop/09.jpg",
+          "normal_image": "normal/09.jpg",
+          "start_ms": 0,
+          "end_ms": 11700,
+          "words": [
+            {
+              "text": "The",
+              "char_start": 0,
+              "char_end": 3,
+              "start_ms": 0,
+              "end_ms": 500
+            },
+            {
+              "text": "prince",
+              "char_start": 4,
+              "char_end": 10,
+              "start_ms": 500,
+              "end_ms": 1000
+            },
+            {
+              "text": "found",
+              "char_start": 11,
+              "char_end": 16,
+              "start_ms": 1000,
+              "end_ms": 1500
+            },
+            {
+              "text": "the",
+              "char_start": 17,
+              "char_end": 20,
+              "start_ms": 1500,
+              "end_ms": 2000
+            },
+            {
+              "text": "glass",
+              "char_start": 21,
+              "char_end": 26,
+              "start_ms": 2000,
+              "end_ms": 2500
+            },
+            {
+              "text": "slipper",
+              "char_start": 27,
+              "char_end": 34,
+              "start_ms": 2500,
+              "end_ms": 3000
+            },
+            {
+              "text": "resting",
+              "char_start": 35,
+              "char_end": 42,
+              "start_ms": 3000,
+              "end_ms": 3500
+            },
+            {
+              "text": "on",
+              "char_start": 43,
+              "char_end": 45,
+              "start_ms": 3500,
+              "end_ms": 4000
+            },
+            {
+              "text": "a",
+              "char_start": 46,
+              "char_end": 47,
+              "start_ms": 4000,
+              "end_ms": 4500
+            },
+            {
+              "text": "step.",
+              "char_start": 48,
+              "char_end": 53,
+              "start_ms": 4500,
+              "end_ms": 5000
+            },
+            {
+              "text": "He",
+              "char_start": 54,
+              "char_end": 56,
+              "start_ms": 5350,
+              "end_ms": 5850
+            },
+            {
+              "text": "hoped",
+              "char_start": 57,
+              "char_end": 62,
+              "start_ms": 5850,
+              "end_ms": 6350
+            },
+            {
+              "text": "to",
+              "char_start": 63,
+              "char_end": 65,
+              "start_ms": 6350,
+              "end_ms": 6850
+            },
+            {
+              "text": "find",
+              "char_start": 66,
+              "char_end": 70,
+              "start_ms": 6850,
+              "end_ms": 7350
+            },
+            {
+              "text": "the",
+              "char_start": 71,
+              "char_end": 74,
+              "start_ms": 7350,
+              "end_ms": 7850
+            },
+            {
+              "text": "kind",
+              "char_start": 75,
+              "char_end": 79,
+              "start_ms": 7850,
+              "end_ms": 8350
+            },
+            {
+              "text": "person",
+              "char_start": 80,
+              "char_end": 86,
+              "start_ms": 8350,
+              "end_ms": 8850
+            },
+            {
+              "text": "who",
+              "char_start": 87,
+              "char_end": 90,
+              "start_ms": 8850,
+              "end_ms": 9350
+            },
+            {
+              "text": "had",
+              "char_start": 91,
+              "char_end": 94,
+              "start_ms": 9350,
+              "end_ms": 9850
+            },
+            {
+              "text": "shared",
+              "char_start": 95,
+              "char_end": 101,
+              "start_ms": 9850,
+              "end_ms": 10350
+            },
+            {
+              "text": "his",
+              "char_start": 102,
+              "char_end": 105,
+              "start_ms": 10350,
+              "end_ms": 10850
+            },
+            {
+              "text": "dance.",
+              "char_start": 106,
+              "char_end": 112,
+              "start_ms": 10850,
+              "end_ms": 11350
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "text": "So he carried it through the village, asking after the guest who had hurried away. At last he reached Cinderella's house. From the kitchen doorway, she recognized him and stepped forward with a shy smile.",
+          "pixelpop_image": "pixelpop/revised/10.jpg",
+          "normal_image": "normal/10.jpg",
+          "start_ms": 11700,
+          "end_ms": 30500,
+          "words": [
+            {
+              "text": "So",
+              "char_start": 0,
+              "char_end": 2,
+              "start_ms": 11700,
+              "end_ms": 12200
+            },
+            {
+              "text": "he",
+              "char_start": 3,
+              "char_end": 5,
+              "start_ms": 12200,
+              "end_ms": 12700
+            },
+            {
+              "text": "carried",
+              "char_start": 6,
+              "char_end": 13,
+              "start_ms": 12700,
+              "end_ms": 13200
+            },
+            {
+              "text": "it",
+              "char_start": 14,
+              "char_end": 16,
+              "start_ms": 13200,
+              "end_ms": 13700
+            },
+            {
+              "text": "through",
+              "char_start": 17,
+              "char_end": 24,
+              "start_ms": 13700,
+              "end_ms": 14200
+            },
+            {
+              "text": "the",
+              "char_start": 25,
+              "char_end": 28,
+              "start_ms": 14200,
+              "end_ms": 14700
+            },
+            {
+              "text": "village,",
+              "char_start": 29,
+              "char_end": 37,
+              "start_ms": 14700,
+              "end_ms": 15200
+            },
+            {
+              "text": "asking",
+              "char_start": 38,
+              "char_end": 44,
+              "start_ms": 15325,
+              "end_ms": 15825
+            },
+            {
+              "text": "after",
+              "char_start": 45,
+              "char_end": 50,
+              "start_ms": 15825,
+              "end_ms": 16325
+            },
+            {
+              "text": "the",
+              "char_start": 51,
+              "char_end": 54,
+              "start_ms": 16325,
+              "end_ms": 16825
+            },
+            {
+              "text": "guest",
+              "char_start": 55,
+              "char_end": 60,
+              "start_ms": 16825,
+              "end_ms": 17325
+            },
+            {
+              "text": "who",
+              "char_start": 61,
+              "char_end": 64,
+              "start_ms": 17325,
+              "end_ms": 17825
+            },
+            {
+              "text": "had",
+              "char_start": 65,
+              "char_end": 68,
+              "start_ms": 17825,
+              "end_ms": 18325
+            },
+            {
+              "text": "hurried",
+              "char_start": 69,
+              "char_end": 76,
+              "start_ms": 18325,
+              "end_ms": 18825
+            },
+            {
+              "text": "away.",
+              "char_start": 77,
+              "char_end": 82,
+              "start_ms": 18825,
+              "end_ms": 19325
+            },
+            {
+              "text": "At",
+              "char_start": 83,
+              "char_end": 85,
+              "start_ms": 19675,
+              "end_ms": 20175
+            },
+            {
+              "text": "last",
+              "char_start": 86,
+              "char_end": 90,
+              "start_ms": 20175,
+              "end_ms": 20675
+            },
+            {
+              "text": "he",
+              "char_start": 91,
+              "char_end": 93,
+              "start_ms": 20675,
+              "end_ms": 21175
+            },
+            {
+              "text": "reached",
+              "char_start": 94,
+              "char_end": 101,
+              "start_ms": 21175,
+              "end_ms": 21675
+            },
+            {
+              "text": "Cinderella's",
+              "char_start": 102,
+              "char_end": 114,
+              "start_ms": 21675,
+              "end_ms": 22175
+            },
+            {
+              "text": "house.",
+              "char_start": 115,
+              "char_end": 121,
+              "start_ms": 22175,
+              "end_ms": 22675
+            },
+            {
+              "text": "From",
+              "char_start": 122,
+              "char_end": 126,
+              "start_ms": 23025,
+              "end_ms": 23525
+            },
+            {
+              "text": "the",
+              "char_start": 127,
+              "char_end": 130,
+              "start_ms": 23525,
+              "end_ms": 24025
+            },
+            {
+              "text": "kitchen",
+              "char_start": 131,
+              "char_end": 138,
+              "start_ms": 24025,
+              "end_ms": 24525
+            },
+            {
+              "text": "doorway,",
+              "char_start": 139,
+              "char_end": 147,
+              "start_ms": 24525,
+              "end_ms": 25025
+            },
+            {
+              "text": "she",
+              "char_start": 148,
+              "char_end": 151,
+              "start_ms": 25150,
+              "end_ms": 25650
+            },
+            {
+              "text": "recognized",
+              "char_start": 152,
+              "char_end": 162,
+              "start_ms": 25650,
+              "end_ms": 26150
+            },
+            {
+              "text": "him",
+              "char_start": 163,
+              "char_end": 166,
+              "start_ms": 26150,
+              "end_ms": 26650
+            },
+            {
+              "text": "and",
+              "char_start": 167,
+              "char_end": 170,
+              "start_ms": 26650,
+              "end_ms": 27150
+            },
+            {
+              "text": "stepped",
+              "char_start": 171,
+              "char_end": 178,
+              "start_ms": 27150,
+              "end_ms": 27650
+            },
+            {
+              "text": "forward",
+              "char_start": 179,
+              "char_end": 186,
+              "start_ms": 27650,
+              "end_ms": 28150
+            },
+            {
+              "text": "with",
+              "char_start": 187,
+              "char_end": 191,
+              "start_ms": 28150,
+              "end_ms": 28650
+            },
+            {
+              "text": "a",
+              "char_start": 192,
+              "char_end": 193,
+              "start_ms": 28650,
+              "end_ms": 29150
+            },
+            {
+              "text": "shy",
+              "char_start": 194,
+              "char_end": 197,
+              "start_ms": 29150,
+              "end_ms": 29650
+            },
+            {
+              "text": "smile.",
+              "char_start": 198,
+              "char_end": 204,
+              "start_ms": 29650,
+              "end_ms": 30150
+            }
+          ]
+        }
+      ],
+      "duration_ms": 30500
+    },
+    {
+      "id": "06-ending",
+      "audio": "narration/06-ending.wav",
+      "story_start_ms": 150625,
+      "pages": [
+        {
+          "id": "11",
+          "text": "The slipper fitted Cinderella perfectly. But the prince was happiest to hear her voice and see her friendly smile again.",
+          "pixelpop_image": "pixelpop/revised/11.jpg",
+          "normal_image": "normal/11.jpg",
+          "start_ms": 0,
+          "end_ms": 10700,
+          "words": [
+            {
+              "text": "The",
+              "char_start": 0,
+              "char_end": 3,
+              "start_ms": 0,
+              "end_ms": 500
+            },
+            {
+              "text": "slipper",
+              "char_start": 4,
+              "char_end": 11,
+              "start_ms": 500,
+              "end_ms": 1000
+            },
+            {
+              "text": "fitted",
+              "char_start": 12,
+              "char_end": 18,
+              "start_ms": 1000,
+              "end_ms": 1500
+            },
+            {
+              "text": "Cinderella",
+              "char_start": 19,
+              "char_end": 29,
+              "start_ms": 1500,
+              "end_ms": 2000
+            },
+            {
+              "text": "perfectly.",
+              "char_start": 30,
+              "char_end": 40,
+              "start_ms": 2000,
+              "end_ms": 2500
+            },
+            {
+              "text": "But",
+              "char_start": 41,
+              "char_end": 44,
+              "start_ms": 2850,
+              "end_ms": 3350
+            },
+            {
+              "text": "the",
+              "char_start": 45,
+              "char_end": 48,
+              "start_ms": 3350,
+              "end_ms": 3850
+            },
+            {
+              "text": "prince",
+              "char_start": 49,
+              "char_end": 55,
+              "start_ms": 3850,
+              "end_ms": 4350
+            },
+            {
+              "text": "was",
+              "char_start": 56,
+              "char_end": 59,
+              "start_ms": 4350,
+              "end_ms": 4850
+            },
+            {
+              "text": "happiest",
+              "char_start": 60,
+              "char_end": 68,
+              "start_ms": 4850,
+              "end_ms": 5350
+            },
+            {
+              "text": "to",
+              "char_start": 69,
+              "char_end": 71,
+              "start_ms": 5350,
+              "end_ms": 5850
+            },
+            {
+              "text": "hear",
+              "char_start": 72,
+              "char_end": 76,
+              "start_ms": 5850,
+              "end_ms": 6350
+            },
+            {
+              "text": "her",
+              "char_start": 77,
+              "char_end": 80,
+              "start_ms": 6350,
+              "end_ms": 6850
+            },
+            {
+              "text": "voice",
+              "char_start": 81,
+              "char_end": 86,
+              "start_ms": 6850,
+              "end_ms": 7350
+            },
+            {
+              "text": "and",
+              "char_start": 87,
+              "char_end": 90,
+              "start_ms": 7350,
+              "end_ms": 7850
+            },
+            {
+              "text": "see",
+              "char_start": 91,
+              "char_end": 94,
+              "start_ms": 7850,
+              "end_ms": 8350
+            },
+            {
+              "text": "her",
+              "char_start": 95,
+              "char_end": 98,
+              "start_ms": 8350,
+              "end_ms": 8850
+            },
+            {
+              "text": "friendly",
+              "char_start": 99,
+              "char_end": 107,
+              "start_ms": 8850,
+              "end_ms": 9350
+            },
+            {
+              "text": "smile",
+              "char_start": 108,
+              "char_end": 113,
+              "start_ms": 9350,
+              "end_ms": 9850
+            },
+            {
+              "text": "again.",
+              "char_start": 114,
+              "char_end": 120,
+              "start_ms": 9850,
+              "end_ms": 10350
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "text": "In time, they made a home filled with laughter, music, and kindness. Every evening, they left crumbs for the garden birds. And beneath the peaceful moon, Cinderella knew that her gentle heart had always been her greatest treasure. The end.",
+          "pixelpop_image": "pixelpop/revised/12.jpg",
+          "normal_image": "normal/12.jpg",
+          "start_ms": 10700,
+          "end_ms": 32725,
+          "words": [
+            {
+              "text": "In",
+              "char_start": 0,
+              "char_end": 2,
+              "start_ms": 10700,
+              "end_ms": 11200
+            },
+            {
+              "text": "time,",
+              "char_start": 3,
+              "char_end": 8,
+              "start_ms": 11200,
+              "end_ms": 11700
+            },
+            {
+              "text": "they",
+              "char_start": 9,
+              "char_end": 13,
+              "start_ms": 11825,
+              "end_ms": 12325
+            },
+            {
+              "text": "made",
+              "char_start": 14,
+              "char_end": 18,
+              "start_ms": 12325,
+              "end_ms": 12825
+            },
+            {
+              "text": "a",
+              "char_start": 19,
+              "char_end": 20,
+              "start_ms": 12825,
+              "end_ms": 13325
+            },
+            {
+              "text": "home",
+              "char_start": 21,
+              "char_end": 25,
+              "start_ms": 13325,
+              "end_ms": 13825
+            },
+            {
+              "text": "filled",
+              "char_start": 26,
+              "char_end": 32,
+              "start_ms": 13825,
+              "end_ms": 14325
+            },
+            {
+              "text": "with",
+              "char_start": 33,
+              "char_end": 37,
+              "start_ms": 14325,
+              "end_ms": 14825
+            },
+            {
+              "text": "laughter,",
+              "char_start": 38,
+              "char_end": 47,
+              "start_ms": 14825,
+              "end_ms": 15325
+            },
+            {
+              "text": "music,",
+              "char_start": 48,
+              "char_end": 54,
+              "start_ms": 15450,
+              "end_ms": 15950
+            },
+            {
+              "text": "and",
+              "char_start": 55,
+              "char_end": 58,
+              "start_ms": 16075,
+              "end_ms": 16575
+            },
+            {
+              "text": "kindness.",
+              "char_start": 59,
+              "char_end": 68,
+              "start_ms": 16575,
+              "end_ms": 17075
+            },
+            {
+              "text": "Every",
+              "char_start": 69,
+              "char_end": 74,
+              "start_ms": 17425,
+              "end_ms": 17925
+            },
+            {
+              "text": "evening,",
+              "char_start": 75,
+              "char_end": 83,
+              "start_ms": 17925,
+              "end_ms": 18425
+            },
+            {
+              "text": "they",
+              "char_start": 84,
+              "char_end": 88,
+              "start_ms": 18550,
+              "end_ms": 19050
+            },
+            {
+              "text": "left",
+              "char_start": 89,
+              "char_end": 93,
+              "start_ms": 19050,
+              "end_ms": 19550
+            },
+            {
+              "text": "crumbs",
+              "char_start": 94,
+              "char_end": 100,
+              "start_ms": 19550,
+              "end_ms": 20050
+            },
+            {
+              "text": "for",
+              "char_start": 101,
+              "char_end": 104,
+              "start_ms": 20050,
+              "end_ms": 20550
+            },
+            {
+              "text": "the",
+              "char_start": 105,
+              "char_end": 108,
+              "start_ms": 20550,
+              "end_ms": 21050
+            },
+            {
+              "text": "garden",
+              "char_start": 109,
+              "char_end": 115,
+              "start_ms": 21050,
+              "end_ms": 21550
+            },
+            {
+              "text": "birds.",
+              "char_start": 116,
+              "char_end": 122,
+              "start_ms": 21550,
+              "end_ms": 22050
+            },
+            {
+              "text": "And",
+              "char_start": 123,
+              "char_end": 126,
+              "start_ms": 22400,
+              "end_ms": 22900
+            },
+            {
+              "text": "beneath",
+              "char_start": 127,
+              "char_end": 134,
+              "start_ms": 22900,
+              "end_ms": 23400
+            },
+            {
+              "text": "the",
+              "char_start": 135,
+              "char_end": 138,
+              "start_ms": 23400,
+              "end_ms": 23900
+            },
+            {
+              "text": "peaceful",
+              "char_start": 139,
+              "char_end": 147,
+              "start_ms": 23900,
+              "end_ms": 24400
+            },
+            {
+              "text": "moon,",
+              "char_start": 148,
+              "char_end": 153,
+              "start_ms": 24400,
+              "end_ms": 24900
+            },
+            {
+              "text": "Cinderella",
+              "char_start": 154,
+              "char_end": 164,
+              "start_ms": 25025,
+              "end_ms": 25525
+            },
+            {
+              "text": "knew",
+              "char_start": 165,
+              "char_end": 169,
+              "start_ms": 25525,
+              "end_ms": 26025
+            },
+            {
+              "text": "that",
+              "char_start": 170,
+              "char_end": 174,
+              "start_ms": 26025,
+              "end_ms": 26525
+            },
+            {
+              "text": "her",
+              "char_start": 175,
+              "char_end": 178,
+              "start_ms": 26525,
+              "end_ms": 27025
+            },
+            {
+              "text": "gentle",
+              "char_start": 179,
+              "char_end": 185,
+              "start_ms": 27025,
+              "end_ms": 27525
+            },
+            {
+              "text": "heart",
+              "char_start": 186,
+              "char_end": 191,
+              "start_ms": 27525,
+              "end_ms": 28025
+            },
+            {
+              "text": "had",
+              "char_start": 192,
+              "char_end": 195,
+              "start_ms": 28025,
+              "end_ms": 28525
+            },
+            {
+              "text": "always",
+              "char_start": 196,
+              "char_end": 202,
+              "start_ms": 28525,
+              "end_ms": 29025
+            },
+            {
+              "text": "been",
+              "char_start": 203,
+              "char_end": 207,
+              "start_ms": 29025,
+              "end_ms": 29525
+            },
+            {
+              "text": "her",
+              "char_start": 208,
+              "char_end": 211,
+              "start_ms": 29525,
+              "end_ms": 30025
+            },
+            {
+              "text": "greatest",
+              "char_start": 212,
+              "char_end": 220,
+              "start_ms": 30025,
+              "end_ms": 30525
+            },
+            {
+              "text": "treasure.",
+              "char_start": 221,
+              "char_end": 230,
+              "start_ms": 30525,
+              "end_ms": 31025
+            },
+            {
+              "text": "The",
+              "char_start": 231,
+              "char_end": 234,
+              "start_ms": 31375,
+              "end_ms": 31875
+            },
+            {
+              "text": "end.",
+              "char_start": 235,
+              "char_end": 239,
+              "start_ms": 31875,
+              "end_ms": 32375
+            }
+          ]
+        }
+      ],
+      "duration_ms": 32725
+    }
+  ],
+  "duration_ms": 183350
+}
