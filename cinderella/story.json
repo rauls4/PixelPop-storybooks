@@ -3,8 +3,8 @@
   "id": "cinderella",
   "title": "Cinderella",
   "style": "Luminous watercolor and gold",
-  "audio_status": "pending_generation",
-  "timing_status": "pending_measured_audio",
+  "audio_status": "normalized_requires_listening_review",
+  "timing_status": "measured_from_original_pcm_preserved_after_normalization_requires_playback_review",
   "transition_ms": 260,
   "pixelpop_size": [
     128,
@@ -17,74 +17,110 @@
   "segments": [
     {
       "id": "01-hearth",
-      "audio": "narration/01-hearth.wav",
+      "audio": "audio-normalized/01-hearth.m4a",
       "pages": [
         "01",
         "02"
       ],
       "page_start_ms": [
         0,
-        null
+        12833.5
+      ],
+      "duration_frames": 357188,
+      "duration_ms": 22324.25,
+      "page_start_frames": [
+        0,
+        205336
       ]
     },
     {
       "id": "02-magic",
-      "audio": "narration/02-magic.wav",
+      "audio": "audio-normalized/02-magic.m4a",
       "pages": [
         "03",
         "04"
       ],
       "page_start_ms": [
         0,
-        null
+        13057.5
+      ],
+      "duration_frames": 423812,
+      "duration_ms": 26488.25,
+      "page_start_frames": [
+        0,
+        208920
       ]
     },
     {
       "id": "03-ball",
-      "audio": "narration/03-ball.wav",
+      "audio": "audio-normalized/03-ball.m4a",
       "pages": [
         "05",
         "06"
       ],
       "page_start_ms": [
         0,
-        null
+        8883.125
+      ],
+      "duration_frames": 414086,
+      "duration_ms": 25880.375,
+      "page_start_frames": [
+        0,
+        142130
       ]
     },
     {
       "id": "04-midnight",
-      "audio": "narration/04-midnight.wav",
+      "audio": "audio-normalized/04-midnight.m4a",
       "pages": [
         "07",
         "08"
       ],
       "page_start_ms": [
         0,
-        null
+        3942.4375
+      ],
+      "duration_frames": 352756,
+      "duration_ms": 22047.25,
+      "page_start_frames": [
+        0,
+        63079
       ]
     },
     {
       "id": "05-slipper",
-      "audio": "narration/05-slipper.wav",
+      "audio": "audio-normalized/05-slipper.m4a",
       "pages": [
         "09",
         "10"
       ],
       "page_start_ms": [
         0,
-        null
+        8543.375
+      ],
+      "duration_frames": 373036,
+      "duration_ms": 23314.75,
+      "page_start_frames": [
+        0,
+        136694
       ]
     },
     {
       "id": "06-ending",
-      "audio": "narration/06-ending.wav",
+      "audio": "audio-normalized/06-ending.m4a",
       "pages": [
         "11",
         "12"
       ],
       "page_start_ms": [
         0,
-        null
+        7765.625
+      ],
+      "duration_frames": 424651,
+      "duration_ms": 26540.6875,
+      "page_start_frames": [
+        0,
+        124250
       ]
     }
   ],
@@ -272,5 +308,11 @@
     "timing_status": "estimated_not_audio_aligned",
     "audio_aligned": false,
     "enable_synchronized_highlighting": false
+  },
+  "normalization": {
+    "source": "User-supplied normalized M4A, preserved without re-encoding",
+    "decoded_sample_rate_hz": 16000,
+    "runtime_gain": 1,
+    "sample_counts_unchanged": true
   }
 }

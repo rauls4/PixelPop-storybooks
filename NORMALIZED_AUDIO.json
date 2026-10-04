@@ -1,0 +1,308 @@
+{
+  "source": "/Users/raul/dev/PixelPop/content/storybook-normalized",
+  "recordings": 30,
+  "frame_rate_hz": 16000,
+  "timing": "Same decoded sample counts and cues as board source before normalization",
+  "entries": [
+    {
+      "story": "cinderella",
+      "segment": "01-hearth",
+      "frames": 357188,
+      "waveform_correlation_to_previous": 0.999673764583589,
+      "peak_dbfs": -0.9959890043205175,
+      "rms_dbfs": -15.826959523238582,
+      "source_sha256": "a98ec283021fbdf42c689838e7567796cafcc4c8a6202d692d0df1e95268f5e0",
+      "mp3_sha256": "6e8d93be7112939dda99c3bea8aa61bbcac5c14848800c22a88b8710f6e9b79e"
+    },
+    {
+      "story": "cinderella",
+      "segment": "02-magic",
+      "frames": 423812,
+      "waveform_correlation_to_previous": 0.9966766696713738,
+      "peak_dbfs": -0.9299475538836764,
+      "rms_dbfs": -15.740307225575592,
+      "source_sha256": "631e0672e970098cc4cbf97457f62975f8db7f6146870635081fa173f57792b3",
+      "mp3_sha256": "d37bf1dad50fcdd257f08be5cba44a8d86c64b24c8e932b026e4cab0ee9188c2"
+    },
+    {
+      "story": "cinderella",
+      "segment": "03-ball",
+      "frames": 414086,
+      "waveform_correlation_to_previous": 0.9966754281649136,
+      "peak_dbfs": -1.0069952872914687,
+      "rms_dbfs": -15.230287574474664,
+      "source_sha256": "37090726be925475749f61a44789b8155d0c3ca6990c8b173d1f98646b47679e",
+      "mp3_sha256": "859cae4d90b591229a4041a9e345cb7a416790a41b97474c53876e6b913cccd6"
+    },
+    {
+      "story": "cinderella",
+      "segment": "04-midnight",
+      "frames": 352756,
+      "waveform_correlation_to_previous": 0.9970605155142285,
+      "peak_dbfs": -1.000151903819357,
+      "rms_dbfs": -15.401377912938353,
+      "source_sha256": "e8885153ef7bbe445c519a2034c61b1a94d954d1c5950970cf4f71a6f1e62db8",
+      "mp3_sha256": "d76aaa71ecfc52fbd520deda7614f8eee6ff169bdb7bc8ed57bebef9afdd418b"
+    },
+    {
+      "story": "cinderella",
+      "segment": "05-slipper",
+      "frames": 373036,
+      "waveform_correlation_to_previous": 0.996778463523514,
+      "peak_dbfs": -1.0028291074482363,
+      "rms_dbfs": -15.559386892290535,
+      "source_sha256": "90171fd9abe0debfbc9f6249108cefcb22d7b0c86407bfb943f7ef1cb11d609f",
+      "mp3_sha256": "d091bee6a2f4da5c854d498830d67c1ff67427a40c0032a35423f5a9cf392edb"
+    },
+    {
+      "story": "cinderella",
+      "segment": "06-ending",
+      "frames": 424651,
+      "waveform_correlation_to_previous": 0.9962343960042754,
+      "peak_dbfs": -0.9983675597233637,
+      "rms_dbfs": -15.110972384493515,
+      "source_sha256": "cfb9c930508b6bf83976b8f04664d656dc0776aa7a2e9219b6c57a94fe5db333",
+      "mp3_sha256": "0167deb7139ce14ae401de98cc300002c1e9b2d66f8d187f649134d1fa3e55e3"
+    },
+    {
+      "story": "little-red-riding-hood",
+      "segment": "01-intro",
+      "frames": 160700,
+      "waveform_correlation_to_previous": 0.9989796170848689,
+      "peak_dbfs": -1.0043167994340716,
+      "rms_dbfs": -16.028941100916917,
+      "source_sha256": "3289803699e84bd58f8f50380105ad21e1cc29d3dbe6e338638a815740b47c1a",
+      "mp3_sha256": "49110aed3b7f2998de3310bfa1b39e1b9f56bd857c29e40cca34e7976bff6370"
+    },
+    {
+      "story": "little-red-riding-hood",
+      "segment": "02-forest",
+      "frames": 68064,
+      "waveform_correlation_to_previous": 0.9998470658924599,
+      "peak_dbfs": -1.1332210649774586,
+      "rms_dbfs": -16.70008705283336,
+      "source_sha256": "f7c18c8d07ecfcd1c5477a03c60df8a38dc6db5d018731c4e6ff1b1bf451aa8b",
+      "mp3_sha256": "fc05123073ca4d8202f190569659205586266910dea5acfba10234a622f80bea"
+    },
+    {
+      "story": "little-red-riding-hood",
+      "segment": "03-wolf",
+      "frames": 74145,
+      "waveform_correlation_to_previous": 0.9997628238080565,
+      "peak_dbfs": -1.0084836930798606,
+      "rms_dbfs": -16.649842523120054,
+      "source_sha256": "fefa0cb8114abf8363cf3058b8c0d0a77f929f101be7c910723b9196542fe854",
+      "mp3_sha256": "87be0139b3496bd238faa0594173f5b316f480b7facc15e00a573035f01eabda"
+    },
+    {
+      "story": "little-red-riding-hood",
+      "segment": "04-cottage",
+      "frames": 219180,
+      "waveform_correlation_to_previous": 0.9947018539579866,
+      "peak_dbfs": -1.000151903819357,
+      "rms_dbfs": -17.20936064454593,
+      "source_sha256": "756f938e77e44980cf9583a0a632d070346d20a76366b15d4843d14d515bd45f",
+      "mp3_sha256": "975ecb746a5e5ddb6f7b8fdb82ce654a731c433c51eddd4aa0da8cbabaa4067b"
+    },
+    {
+      "story": "little-red-riding-hood",
+      "segment": "05-evening",
+      "frames": 191079,
+      "waveform_correlation_to_previous": 0.9986591136457499,
+      "peak_dbfs": -1.6756132729194515,
+      "rms_dbfs": -16.96473150372164,
+      "source_sha256": "835d4e029eca553e724deaf5efb90cfd8df06e4c451459b6e9d9d8e4526e703e",
+      "mp3_sha256": "20f387d3a93e42d834ad3e27dadd927348348ff53e50092c49f13ba9599ee288"
+    },
+    {
+      "story": "little-red-riding-hood",
+      "segment": "06-ending",
+      "frames": 177599,
+      "waveform_correlation_to_previous": 0.9922264451588719,
+      "peak_dbfs": -1.0034241536660524,
+      "rms_dbfs": -16.92432269783836,
+      "source_sha256": "ea17882bab0666d5b4f8f13cbd4b9cad37404ba3dfc625226b4583e54102b4ee",
+      "mp3_sha256": "1d827617668f00220f8fc7feec81e89e85524effd005014a121a8f2e3cea272b"
+    },
+    {
+      "story": "pinocchio",
+      "segment": "01-workshop",
+      "frames": 455816,
+      "waveform_correlation_to_previous": 0.9917514508745003,
+      "peak_dbfs": -0.9971782006035996,
+      "rms_dbfs": -15.940343665598292,
+      "source_sha256": "3932ac3fc6b6415aaed938436b6796c711390b58632d7274f7b42bf19e4a96b7",
+      "mp3_sha256": "9c0dcf1cb283f01c5943c3effcfcc9dac2f082d8bd1ea157b577efb3b726a3f0"
+    },
+    {
+      "story": "pinocchio",
+      "segment": "02-school",
+      "frames": 433350,
+      "waveform_correlation_to_previous": 0.9969587375595041,
+      "peak_dbfs": -1.0007467666513574,
+      "rms_dbfs": -16.336256670550092,
+      "source_sha256": "214bd11fed20aba2c3d523beede9610014f4fcd601f9276e1190a0a7b9c18e86",
+      "mp3_sha256": "f501668922593a9f57100d54817023603911cd30b25578976aa6d84e69b07af2"
+    },
+    {
+      "story": "pinocchio",
+      "segment": "03-detour",
+      "frames": 437106,
+      "waveform_correlation_to_previous": 0.9969492467854333,
+      "peak_dbfs": -0.9992596859515884,
+      "rms_dbfs": -16.59625189064833,
+      "source_sha256": "0cbf7e6543de6d4875844166e7c6057fbb987fe75df208913cd71d7f33615760",
+      "mp3_sha256": "192d117d62ead4cfc28d6585cea5e5165f3afde778a36a505fbde0dc3463c316"
+    },
+    {
+      "story": "pinocchio",
+      "segment": "04-truth",
+      "frames": 418336,
+      "waveform_correlation_to_previous": 0.9946499738210248,
+      "peak_dbfs": -0.9927195538047745,
+      "rms_dbfs": -17.005033167079105,
+      "source_sha256": "cc26f43f7f636cfdba269c7d423cfca767bcca0dba87a5595ab11cb9579e148c",
+      "mp3_sha256": "10f2297a18a6ef1278a9e21f7ba24b523bf3f0a0364337b3a2220ce88aa85bf1"
+    },
+    {
+      "story": "pinocchio",
+      "segment": "05-reunion",
+      "frames": 476123,
+      "waveform_correlation_to_previous": 0.9974334324762397,
+      "peak_dbfs": -1.0007467666513574,
+      "rms_dbfs": -16.764119525160012,
+      "source_sha256": "ac2ab52401baead2388ca60e41a4fbc012ed337eec10534fbee3b9c17bbd301f",
+      "mp3_sha256": "580caa328c87383698c9bfe4f3f65cad20d5baac15d69cc4a075ff72c49e6688"
+    },
+    {
+      "story": "pinocchio",
+      "segment": "06-ending",
+      "frames": 560447,
+      "waveform_correlation_to_previous": 0.9893469306223976,
+      "peak_dbfs": -0.9942055151171536,
+      "rms_dbfs": -17.40731398829572,
+      "source_sha256": "3647b2a68a0846d789a10afa3ae29a30d6354496a5ec255aa66fad8861782188",
+      "mp3_sha256": "0049de045fdaa98fb3c1edb052e5e2686b5c34b9cc054153bf84bda24521bd2c"
+    },
+    {
+      "story": "snow-white",
+      "segment": "01-forest",
+      "frames": 477806,
+      "waveform_correlation_to_previous": 0.9977424689734424,
+      "peak_dbfs": -1.0019366145488435,
+      "rms_dbfs": -16.26374612804058,
+      "source_sha256": "d3a39b0d4621916f2dee092e408d824205cfbc70e4d4bb223116472e2b4ff652",
+      "mp3_sha256": "49a5b8492f29b43b31294f0e15aa851ced5284d05d223242e0198e2f1d9fa215"
+    },
+    {
+      "story": "snow-white",
+      "segment": "02-cottage",
+      "frames": 542204,
+      "waveform_correlation_to_previous": 0.9832107369998843,
+      "peak_dbfs": -0.9927195538047745,
+      "rms_dbfs": -15.777664328228656,
+      "source_sha256": "d4b87c4c8f6be7a6189c3e4a55168c59148c51b407ea298e4cff107c34e72dae",
+      "mp3_sha256": "342bda60ff90049e2a3b48339944a2ecc1a45480935612e7a1559a31b601898d"
+    },
+    {
+      "story": "snow-white",
+      "segment": "03-apple",
+      "frames": 523318,
+      "waveform_correlation_to_previous": 0.9928028059002938,
+      "peak_dbfs": -1.0016391372935423,
+      "rms_dbfs": -17.75902567985245,
+      "source_sha256": "3f7815ad298453bf1e1729cb73d38341cf30eafc41553c68b2cd28cd1ea199ee",
+      "mp3_sha256": "06eca8a79793c8659012ebef70a78255931d7b2bad9670c439855841c70d26a1"
+    },
+    {
+      "story": "snow-white",
+      "segment": "04-sleep",
+      "frames": 509150,
+      "waveform_correlation_to_previous": 0.992103145369452,
+      "peak_dbfs": -0.998070204675045,
+      "rms_dbfs": -15.88438925166863,
+      "source_sha256": "269277840f669397b1499a8e86870342c08a7f45da9bd2a12746c5b9af7c977e",
+      "mp3_sha256": "b50ea8ac5b7456a9de2fdebe82f3f5202ac6445a2ba5a8b08f4694b3dc98d8a3"
+    },
+    {
+      "story": "snow-white",
+      "segment": "05-waking",
+      "frames": 475114,
+      "waveform_correlation_to_previous": 0.9823995242522865,
+      "peak_dbfs": -0.9808410061733448,
+      "rms_dbfs": -15.5746723660142,
+      "source_sha256": "47788a4ec05ea1162e66d7d6868fef6b76f1c37d29cd7316389b5edab12273d5",
+      "mp3_sha256": "f25068d6b3775843df974f42e9a904bbfbb5ea8fc0951c2c17ced1c2482e48dc"
+    },
+    {
+      "story": "snow-white",
+      "segment": "06-ending",
+      "frames": 510701,
+      "waveform_correlation_to_previous": 0.9916069079192952,
+      "peak_dbfs": -0.9965835821102602,
+      "rms_dbfs": -16.655464225467686,
+      "source_sha256": "8017f562b439bdbf1facb00c200acebfe77faec7749b09e2d86755d200b050f5",
+      "mp3_sha256": "7e6635e8593b3f324779fd953b806da5041d159386cfe3f9a96ba55b35652b5b"
+    },
+    {
+      "story": "thumbelina",
+      "segment": "01-flower",
+      "frames": 353781,
+      "waveform_correlation_to_previous": 0.9972688073134257,
+      "peak_dbfs": -1.0040192406516282,
+      "rms_dbfs": -15.915656609274464,
+      "source_sha256": "159adf406be97bb6c6e2221292dcb857db58e640c72c8d75acfe25441231777a",
+      "mp3_sha256": "b4e436cee5ba63ad7ade80a4d4c30044c3c3a36a8f618c463ae78d3d4dfd49b8"
+    },
+    {
+      "story": "thumbelina",
+      "segment": "02-journey",
+      "frames": 364874,
+      "waveform_correlation_to_previous": 0.9983744111570106,
+      "peak_dbfs": -1.000151903819357,
+      "rms_dbfs": -16.244635273428006,
+      "source_sha256": "b6d930720c3d4d7632a9a98094d0194e80944eeef3a09baa617c2b7f4723cec6",
+      "mp3_sha256": "5d33f2bcf3fdfd24da72eabba71f11a14010d4fe4fd38ac8cc9ccabb2f159199"
+    },
+    {
+      "story": "thumbelina",
+      "segment": "03-cottage",
+      "frames": 404044,
+      "waveform_correlation_to_previous": 0.9964991415702601,
+      "peak_dbfs": -0.8591354842378616,
+      "rms_dbfs": -17.13387105616727,
+      "source_sha256": "19d5ffddfa28d730d4484426c16b47c86d2698836c0f5f522be4ce5af0a01370",
+      "mp3_sha256": "ab6ab9c2ecbd9080702aacc3c8866b7c860467400b3d54a9b871ee7c7990ff5c"
+    },
+    {
+      "story": "thumbelina",
+      "segment": "04-winter",
+      "frames": 392470,
+      "waveform_correlation_to_previous": 0.987471031906117,
+      "peak_dbfs": -0.9977728598061093,
+      "rms_dbfs": -15.27764706560001,
+      "source_sha256": "81170462c60ea9e1d2e32e98db16246633a2c2deb795a426aac1aa3e478f169c",
+      "mp3_sha256": "72afe1fb1966f83bcb661f8e7f42df57543cf6b904d7132b24a0d61ba61765ef"
+    },
+    {
+      "story": "thumbelina",
+      "segment": "05-kingdom",
+      "frames": 397902,
+      "waveform_correlation_to_previous": 0.9932151821602492,
+      "peak_dbfs": -1.0022341019925944,
+      "rms_dbfs": -17.02415049015366,
+      "source_sha256": "c17119633147a264a2416671f6887a49febe5b02af0c9b44a26adbedb470be90",
+      "mp3_sha256": "8b2a69500e45bd94e35ffd573fba08167ab6efb43cb0feea9d8f3eb7797f9254"
+    },
+    {
+      "story": "thumbelina",
+      "segment": "06-ending",
+      "frames": 422398,
+      "waveform_correlation_to_previous": 0.9875528516694795,
+      "peak_dbfs": -0.9953944672287993,
+      "rms_dbfs": -16.230910051083672,
+      "source_sha256": "8d0bbcbbb8f8779bc1f77f2aec181a0dc6753adcc475c144e420aa9bfd38cf65",
+      "mp3_sha256": "a5e26f7bb96937e2882b5e418a55d2743bae3ac24930b200a2e686eb1c2f3ad6"
+    }
+  ]
+}

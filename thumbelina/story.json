@@ -3,8 +3,8 @@
   "id": "thumbelina",
   "title": "Thumbelina",
   "style": "Vivid miniature garden",
-  "audio_status": "pending_generation",
-  "timing_status": "pending_measured_audio",
+  "audio_status": "normalized_requires_listening_review",
+  "timing_status": "measured_from_original_pcm_preserved_after_normalization_requires_playback_review",
   "transition_ms": 260,
   "pixelpop_size": [
     128,
@@ -17,74 +17,110 @@
   "segments": [
     {
       "id": "01-flower",
-      "audio": "narration/01-flower.wav",
+      "audio": "audio-normalized/01-flower.m4a",
       "pages": [
         "01",
         "02"
       ],
       "page_start_ms": [
         0,
-        null
+        9224.4375
+      ],
+      "duration_frames": 353781,
+      "duration_ms": 22111.3125,
+      "page_start_frames": [
+        0,
+        147591
       ]
     },
     {
       "id": "02-journey",
-      "audio": "narration/02-journey.wav",
+      "audio": "audio-normalized/02-journey.m4a",
       "pages": [
         "03",
         "04"
       ],
       "page_start_ms": [
         0,
-        null
+        8543.375
+      ],
+      "duration_frames": 364874,
+      "duration_ms": 22804.625,
+      "page_start_frames": [
+        0,
+        136694
       ]
     },
     {
       "id": "03-cottage",
-      "audio": "narration/03-cottage.wav",
+      "audio": "audio-normalized/03-cottage.m4a",
       "pages": [
         "05",
         "06"
       ],
       "page_start_ms": [
         0,
-        null
+        13600.75
+      ],
+      "duration_frames": 404044,
+      "duration_ms": 25252.75,
+      "page_start_frames": [
+        0,
+        217612
       ]
     },
     {
       "id": "04-winter",
-      "audio": "narration/04-winter.wav",
+      "audio": "audio-normalized/04-winter.m4a",
       "pages": [
         "07",
         "08"
       ],
       "page_start_ms": [
         0,
-        null
+        10268.125
+      ],
+      "duration_frames": 392470,
+      "duration_ms": 24529.375,
+      "page_start_frames": [
+        0,
+        164290
       ]
     },
     {
       "id": "05-kingdom",
-      "audio": "narration/05-kingdom.wav",
+      "audio": "audio-normalized/05-kingdom.m4a",
       "pages": [
         "09",
         "10"
       ],
       "page_start_ms": [
         0,
-        null
+        13717.125
+      ],
+      "duration_frames": 397902,
+      "duration_ms": 24868.875,
+      "page_start_frames": [
+        0,
+        219474
       ]
     },
     {
       "id": "06-ending",
-      "audio": "narration/06-ending.wav",
+      "audio": "audio-normalized/06-ending.m4a",
       "pages": [
         "11",
         "12"
       ],
       "page_start_ms": [
         0,
-        null
+        8052.875
+      ],
+      "duration_frames": 422398,
+      "duration_ms": 26399.875,
+      "page_start_frames": [
+        0,
+        128846
       ]
     }
   ],
@@ -288,5 +324,11 @@
     "timing_status": "estimated_not_audio_aligned",
     "audio_aligned": false,
     "enable_synchronized_highlighting": false
+  },
+  "normalization": {
+    "source": "User-supplied normalized M4A, preserved without re-encoding",
+    "decoded_sample_rate_hz": 16000,
+    "runtime_gain": 1,
+    "sample_counts_unchanged": true
   }
 }

@@ -3,8 +3,8 @@
   "id": "snow-white",
   "title": "Snow White",
   "style": "Jewel-toned storybook gouache",
-  "audio_status": "pending_generation",
-  "timing_status": "pending_measured_audio",
+  "audio_status": "normalized_requires_listening_review",
+  "timing_status": "measured_from_original_pcm_preserved_after_normalization_requires_playback_review",
   "transition_ms": 260,
   "pixelpop_size": [
     128,
@@ -17,74 +17,110 @@
   "segments": [
     {
       "id": "01-forest",
-      "audio": "narration/01-forest.wav",
+      "audio": "audio-normalized/01-forest.m4a",
       "pages": [
         "01",
         "02"
       ],
       "page_start_ms": [
         0,
-        null
+        18541.125
+      ],
+      "duration_frames": 477806,
+      "duration_ms": 29862.875,
+      "page_start_frames": [
+        0,
+        296658
       ]
     },
     {
       "id": "02-cottage",
-      "audio": "narration/02-cottage.wav",
+      "audio": "audio-normalized/02-cottage.m4a",
       "pages": [
         "03",
         "04"
       ],
       "page_start_ms": [
         0,
-        null
+        10885.0
+      ],
+      "duration_frames": 542204,
+      "duration_ms": 33887.75,
+      "page_start_frames": [
+        0,
+        174160
       ]
     },
     {
       "id": "03-apple",
-      "audio": "narration/03-apple.wav",
+      "audio": "audio-normalized/03-apple.m4a",
       "pages": [
         "05",
         "06"
       ],
       "page_start_ms": [
         0,
-        null
+        12483.375
+      ],
+      "duration_frames": 523318,
+      "duration_ms": 32707.375,
+      "page_start_frames": [
+        0,
+        199734
       ]
     },
     {
       "id": "04-sleep",
-      "audio": "narration/04-sleep.wav",
+      "audio": "audio-normalized/04-sleep.m4a",
       "pages": [
         "07",
         "08"
       ],
       "page_start_ms": [
         0,
-        null
+        10938.3125
+      ],
+      "duration_frames": 509150,
+      "duration_ms": 31821.875,
+      "page_start_frames": [
+        0,
+        175013
       ]
     },
     {
       "id": "05-waking",
-      "audio": "narration/05-waking.wav",
+      "audio": "audio-normalized/05-waking.m4a",
       "pages": [
         "09",
         "10"
       ],
       "page_start_ms": [
         0,
-        null
+        13260.6875
+      ],
+      "duration_frames": 475114,
+      "duration_ms": 29694.625,
+      "page_start_frames": [
+        0,
+        212171
       ]
     },
     {
       "id": "06-ending",
-      "audio": "narration/06-ending.wav",
+      "audio": "audio-normalized/06-ending.m4a",
       "pages": [
         "11",
         "12"
       ],
       "page_start_ms": [
         0,
-        null
+        14261.25
+      ],
+      "duration_frames": 510701,
+      "duration_ms": 31918.8125,
+      "page_start_frames": [
+        0,
+        228180
       ]
     }
   ],
@@ -276,5 +312,11 @@
     "timing_status": "estimated_not_audio_aligned",
     "audio_aligned": false,
     "enable_synchronized_highlighting": false
+  },
+  "normalization": {
+    "source": "User-supplied normalized M4A, preserved without re-encoding",
+    "decoded_sample_rate_hz": 16000,
+    "runtime_gain": 1,
+    "sample_counts_unchanged": true
   }
 }
